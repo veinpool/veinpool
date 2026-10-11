@@ -8,6 +8,7 @@
   <a href="https://veinpool.fr"><img src="https://img.shields.io/badge/website-veinpool.fr-8a2be2?style=for-the-badge" alt="website"></a>
   <img src="https://img.shields.io/badge/location-EU%20%F0%9F%87%AB%F0%9F%87%B7-2b6cb0?style=for-the-badge" alt="EU">
   <img src="https://img.shields.io/badge/modes-PPLNS%20%7C%20SOLO-28a745?style=for-the-badge" alt="modes">
+  <img src="https://img.shields.io/badge/lang-EN%20%7C%20FR-f6c76e?style=for-the-badge" alt="EN FR">
 </p>
 
 ---
@@ -23,13 +24,23 @@
 
 | Coin | Algo | | Coin | Algo |
 |---|---|---|---|---|
-| [Ergo](https://veinpool.fr/coin/erg) | Autolykos2 | | [Xelis](https://veinpool.fr/coin/xel) | XelisHash v3 |
-| [Firo](https://veinpool.fr/coin/firo) | FiroPoW | | [Tari](https://veinpool.fr/coin/xtm) | RandomXT |
-| [Ravencoin](https://veinpool.fr/coin/rvn) | KawPow | | [Quantus](https://veinpool.fr/coin/qtc) | QPoW |
-| [Neurai](https://veinpool.fr/coin/xna) | KawPow | | [Qubitcoin](https://veinpool.fr/coin/qubit) | Qhash |
-| [Satoxcoin](https://veinpool.fr/coin/satox) | KawPow | | [Ycash](https://veinpool.fr/coin/yec) | Equihash 192,7 |
-| [Gaelium](https://veinpool.fr/coin/gael) | KawPow | | [Feelcoin](https://veinpool.fr/coin/feel) | RandomX |
-| [Kerrigan](https://veinpool.fr/coin/krgn) | KawPow · Equihash 192,7 | | [WAM Coin](https://veinpool.fr/coin/wam) | RandomX |
-| [Epic Cash](https://veinpool.fr/coin/epic) | ProgPow | | [Zycord](https://veinpool.fr/coin/zcd) | RandomX v2 |
+| [Ergo](https://veinpool.fr/coin/erg?lang=en) | Autolykos2 | | [Xelis](https://veinpool.fr/coin/xel?lang=en) | XelisHash v3 |
+| [Firo](https://veinpool.fr/coin/firo?lang=en) | FiroPoW | | [Tari](https://veinpool.fr/coin/xtm?lang=en) | RandomXT |
+| [Ravencoin](https://veinpool.fr/coin/rvn?lang=en) | KawPow | | [Quantus](https://veinpool.fr/coin/qtc?lang=en) | QPoW |
+| [Neurai](https://veinpool.fr/coin/xna?lang=en) | KawPow | | [Qubitcoin](https://veinpool.fr/coin/qubit?lang=en) | Qhash |
+| [Satoxcoin](https://veinpool.fr/coin/satox?lang=en) | KawPow | | [Ycash](https://veinpool.fr/coin/yec?lang=en) | Equihash 192,7 |
+| [Gaelium](https://veinpool.fr/coin/gael?lang=en) | KawPow | | [Feelcoin](https://veinpool.fr/coin/feel?lang=en) | RandomX |
+| [Kerrigan](https://veinpool.fr/coin/krgn?lang=en) | KawPow · Equihash 192,7 | | [WAM Coin](https://veinpool.fr/coin/wam?lang=en) | RandomX |
+| [Epic Cash](https://veinpool.fr/coin/epic?lang=en) | ProgPow | | [Zycord](https://veinpool.fr/coin/zcd?lang=en) | RandomX v2 |
 
-👉 Full list, ports and live stats: **https://veinpool.fr**
+👉 All ports and ready-made commands: **[veinpool/mining-configs](https://github.com/veinpool/mining-configs)**
+
+🌍 Site in English: **https://veinpool.fr/?lang=en** · en français : **https://veinpool.fr**
+
+### Quick start
+```bash
+# KawPow example (Ravencoin): wallet address = login, no account
+t-rex -a kawpow -o stratum+tcp://veinpool.fr:3080 -u YOUR_ADDRESS.rig1 -p x
+```
+
+📫 contact@veinpool.fr
