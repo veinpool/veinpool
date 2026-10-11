@@ -33,6 +33,10 @@
 | [Kerrigan](https://veinpool.fr/coin/krgn?lang=en) | KawPow · Equihash 192,7 | | [WAM Coin](https://veinpool.fr/coin/wam?lang=en) | RandomX |
 | [Epic Cash](https://veinpool.fr/coin/epic?lang=en) | ProgPow | | [Zycord](https://veinpool.fr/coin/zcd?lang=en) | RandomX v2 |
 
+### Open source
+- **[miningcore-live-rigs](https://github.com/veinpool/miningcore-live-rigs)** — realtime rig connect/disconnect events for Miningcore pools
+- **[mining-configs](https://github.com/veinpool/mining-configs)** — stratum ports and miner commands for every VEIN coin
+
 👉 All ports and ready-made commands: **[veinpool/mining-configs](https://github.com/veinpool/mining-configs)**
 
 🌍 Site in English: **https://veinpool.fr/?lang=en** · en français : **https://veinpool.fr**
