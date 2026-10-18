@@ -19,6 +19,32 @@
 - 🪙 **SOLO direct** on Warthog, Dero and Zycord: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
+- 📈 **New in V3 — live markets**: a TradingView-style candlestick chart on every coin page (15 min → 1 day, refreshed every 10 s from the coin's main exchange) and a live screener of all VEIN coins on the home page
+
+### What's new in V3 (October 2026)
+
+<p align="center"><a href="https://veinpool.fr/coin/zano?lang=en"><img src="assets/site-coin-header.jpg" alt="Coin page V3: live exchange price, 24 h high / low / volume, official links" width="92%"></a></p>
+
+- **Live price header** on each coin page: last trade, 24 h change, high / low, volume and sparkline, read from the coin's main exchange (MEXC, Binance, Gate, XT.com, BigONE or NonKYC)
+- **Official links** for every coin: website, block explorer, GitHub, X, Discord, plus *Trade on …* and *Open on TradingView* where the pair is listed there
+- **Candlestick chart** ([TradingView Lightweight Charts™](https://www.tradingview.com/lightweight-charts/), self-hosted, loaded only on coin pages) with volume bars, OHLC legend and 15 min / 1 h / 4 h / 1 day views
+- **Live markets screener** on the home page, sortable by price, change or volume, with price flashes on every move
+- **3× lighter while idle**: decorative animations rebuilt to run on the GPU compositor only — home page idle CPU down from ~34 % to ~10 % of a core, coin pages from ~10 % to under 1 %
+- Coins CoinGecko doesn't list yet (CapStash, LuckyPepe…) now get their euro value from the exchange, so blocks, calculator and cards show what they are worth
+- Fewer API calls per visitor (live feed every 8 s instead of 5 s) and a lighter server; all miners stayed connected during the upgrade
+
+Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://veinpool.fr/coin/zano?lang=en"><img src="assets/site-market-chart.jpg" alt="Live candlestick chart on each coin page"></a></td>
+    <td width="50%"><a href="https://veinpool.fr/?lang=en"><img src="assets/site-live-markets.jpg" alt="Live markets screener on the home page"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Live candles from the coin's main exchange, every coin page</sub></td>
+    <td align="center"><sub>Every VEIN coin's market, live, on the home page</sub></td>
+  </tr>
+</table>
 
 ### Coins
 
@@ -37,7 +63,9 @@
 | [Kerrigan](https://veinpool.fr/coin/krgneq?lang=en) | Equihash 192,7 | PPLNS · SOLO | | [Epic Cash](https://veinpool.fr/coin/epic?lang=en) | ProgPow | PPLNS · SOLO |
 | [Zano](https://veinpool.fr/coin/zano?lang=en) | ProgPowZ | PPLNS · SOLO | | [Dero](https://veinpool.fr/coin/dero?lang=en) | AstroBWTv3 (CPU) | SOLO direct |
 | [Warthog](https://veinpool.fr/coin/wart?lang=en) | Janushash (GPU + CPU) | SOLO direct | | [Beam](https://veinpool.fr/coin/beam?lang=en) | BeamHash III | PPLNS · SOLO |
-| [Grin](https://veinpool.fr/coin/grin?lang=en) | Cuckatoo32 | PPLNS · SOLO | |  | |  |
+| [Grin](https://veinpool.fr/coin/grin?lang=en) | Cuckatoo32 | PPLNS · SOLO | | 🆕 [Satoshi Cash](https://veinpool.fr/coin/scash?lang=en) | RandomX SCASH (CPU) | PPLNS · SOLO |
+| 🆕 [Zephyr](https://veinpool.fr/coin/zeph?lang=en) | RandomX (CPU) | PPLNS · SOLO | | 🆕 [Salvium](https://veinpool.fr/coin/sal?lang=en) | RandomX (CPU) | PPLNS · SOLO |
+| 🆕 [Yerbas](https://veinpool.fr/coin/yerb?lang=en) | Ghostrider (CPU) | PPLNS · SOLO | |  | |  |
 
 <table>
   <tr>
