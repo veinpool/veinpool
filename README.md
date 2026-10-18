@@ -16,7 +16,7 @@
 
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
-- 🪙 **SOLO direct** on Warthog, Dero, Hoosat and Zycord: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
+- 🪙 **SOLO direct** on Warthog, Dero and Zycord: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
 
@@ -24,17 +24,20 @@
 
 | Coin | Algo | Mode | | Coin | Algo | Mode |
 |---|---|---|---|---|---|---|
-| [Ergo](https://veinpool.fr/coin/erg?lang=en) | Autolykos2 | PPLNS | | [Xelis](https://veinpool.fr/coin/xel?lang=en) | XelisHash v3 | PPLNS · SOLO |
+| 🆕 [CapStash](https://veinpool.fr/coin/cap?lang=en) | WhirlpoolX2 (NVIDIA) | PPLNS · SOLO | | 🆕 [Nexa](https://veinpool.fr/coin/nexa?lang=en) | NexaPow | PPLNS · SOLO |
+| 🆕 [LuckyPepe](https://veinpool.fr/coin/lpepe?lang=en) | YescryptR32 (CPU) | PPLNS · SOLO | | 🆕 [Kylacoin](https://veinpool.fr/coin/kcn?lang=en) | Flex (CPU) | PPLNS · SOLO |
+| 🆕 [Cascoin](https://veinpool.fr/coin/cas?lang=en) | MinotaurX (CPU) | PPLNS · SOLO | | 🆕 [Tidecoin](https://veinpool.fr/coin/tdc?lang=en) | YespowerTIDE (CPU) | PPLNS · SOLO |
+| [Quantus](https://veinpool.fr/coin/qtc?lang=en) | QPoW | PPLNS · SOLO | | [Xelis](https://veinpool.fr/coin/xel?lang=en) | XelisHash v3 | PPLNS · SOLO |
 | [Firo](https://veinpool.fr/coin/firo?lang=en) | FiroPoW | PPLNS · SOLO | | [Tari](https://veinpool.fr/coin/xtm?lang=en) | RandomXT | PPLNS · SOLO |
-| [Ravencoin](https://veinpool.fr/coin/rvn?lang=en) | KawPow | PPLNS · SOLO | | [Quantus](https://veinpool.fr/coin/qtc?lang=en) | QPoW | PPLNS · SOLO |
-| [Neurai](https://veinpool.fr/coin/xna?lang=en) | KawPow | PPLNS · SOLO | | [Qubitcoin](https://veinpool.fr/coin/qubit?lang=en) | Qhash | PPLNS · SOLO |
-| [Satoxcoin](https://veinpool.fr/coin/satox?lang=en) | KawPow | PPLNS · SOLO | | [Ycash](https://veinpool.fr/coin/yec?lang=en) | Equihash 192,7 | PPLNS · SOLO |
-| [Gaelium](https://veinpool.fr/coin/gael?lang=en) | KawPow | PPLNS · SOLO | | [Feelcoin](https://veinpool.fr/coin/feel?lang=en) | RandomX | PPLNS · SOLO |
-| [Neoxa](https://veinpool.fr/coin/neox?lang=en) | KawPow | PPLNS · SOLO | | [WAM Coin](https://veinpool.fr/coin/wam?lang=en) | RandomX | PPLNS |
-| [Kerrigan](https://veinpool.fr/coin/krgn?lang=en) | KawPow · Equihash 192,7 | PPLNS · SOLO | | [Zycord](https://veinpool.fr/coin/zcd?lang=en) | RandomX v2 | SOLO direct |
-| [Zano](https://veinpool.fr/coin/zano?lang=en) | ProgPowZ | PPLNS · SOLO | | [Epic Cash](https://veinpool.fr/coin/epic?lang=en) | ProgPow | PPLNS · SOLO |
-| 🆕 [Warthog](https://veinpool.fr/coin/wart?lang=en) | Janushash (GPU + CPU) | SOLO direct | | 🆕 [Dero](https://veinpool.fr/coin/dero?lang=en) | AstroBWTv3 (CPU) | SOLO direct |
-| 🆕 [Beam](https://veinpool.fr/coin/beam?lang=en) | BeamHash III | PPLNS · SOLO | | 🆕 [Hoosat](https://veinpool.fr/coin/htn?lang=en) | Hoohash | SOLO direct |
+| [Ravencoin](https://veinpool.fr/coin/rvn?lang=en) | KawPow | PPLNS · SOLO | | [Qubitcoin](https://veinpool.fr/coin/qubit?lang=en) | Qhash | PPLNS · SOLO |
+| [Neurai](https://veinpool.fr/coin/xna?lang=en) | KawPow | PPLNS · SOLO | | [Ycash](https://veinpool.fr/coin/yec?lang=en) | Equihash 192,7 | PPLNS · SOLO |
+| [Satoxcoin](https://veinpool.fr/coin/satox?lang=en) | KawPow | PPLNS · SOLO | | [Feelcoin](https://veinpool.fr/coin/feel?lang=en) | RandomX | PPLNS · SOLO |
+| [Gaelium](https://veinpool.fr/coin/gael?lang=en) | KawPow | PPLNS · SOLO | | [WAM Coin](https://veinpool.fr/coin/wam?lang=en) | RandomX | PPLNS |
+| [Neoxa](https://veinpool.fr/coin/neox?lang=en) | KawPow | PPLNS · SOLO | | [Zycord](https://veinpool.fr/coin/zcd?lang=en) | RandomX v2 | SOLO direct |
+| [Kerrigan](https://veinpool.fr/coin/krgneq?lang=en) | Equihash 192,7 | PPLNS · SOLO | | [Epic Cash](https://veinpool.fr/coin/epic?lang=en) | ProgPow | PPLNS · SOLO |
+| [Zano](https://veinpool.fr/coin/zano?lang=en) | ProgPowZ | PPLNS · SOLO | | [Dero](https://veinpool.fr/coin/dero?lang=en) | AstroBWTv3 (CPU) | SOLO direct |
+| [Warthog](https://veinpool.fr/coin/wart?lang=en) | Janushash (GPU + CPU) | SOLO direct | | [Beam](https://veinpool.fr/coin/beam?lang=en) | BeamHash III | PPLNS · SOLO |
+| [Grin](https://veinpool.fr/coin/grin?lang=en) | Cuckatoo32 | PPLNS · SOLO | |  | |  |
 
 <table>
   <tr>
