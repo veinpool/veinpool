@@ -1,5 +1,32 @@
 # Changelog — veinpool.fr
 
+## V3.1 — 19 October 2026
+
+### New pool cards
+- Every pool card was redrawn. Each card shows:
+  - a larger logo tile in the coin's colour and a *LIVE* badge;
+  - the price with its 24 h change and a 24 h price curve from the exchange ticker;
+  - VEIN hashrate, miners and network hashrate;
+  - a bar for VEIN's share of the network;
+  - blocks found and a *Mine* button.
+- The cards update in place every 10 s (DOM morph, no flicker). Hover effects run on the compositor only (`transform` / `opacity`).
+
+### Pool grid toolbar (home and /pools)
+- Live search by name, ticker or algorithm.
+- GPU / CPU / *With blocks* filters.
+- Sort by *Most mined* (VEIN share of the network, the default), *Most blocks*, *24 h change* or *Name*.
+
+### Live figures in the hero
+- The hero shows live figures: open pools, blocks found, miners online and the fee.
+
+### Open pools only
+- The site now lists only pools that are open. Coins that are not mineable on a pool yet are no longer shown: Keryx, Parano1d, Riecoin, Dilithion, Monetarium and Kaspa.
+- Their pages left the sitemap, and old links redirect to /pools.
+
+### Speed and testing
+- Idle CPU on the home page stays at the V3 level, about 12 % of a core.
+- Checked on desktop, on mobile (390 px) and in English, with no errors.
+
 ## V3 — 18 October 2026
 
 ### Live markets
