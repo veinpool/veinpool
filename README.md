@@ -65,7 +65,9 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | [Warthog](https://veinpool.fr/coin/wart?lang=en) | Janushash (GPU + CPU) | SOLO direct | | [Beam](https://veinpool.fr/coin/beam?lang=en) | BeamHash III | PPLNS · SOLO |
 | [Grin](https://veinpool.fr/coin/grin?lang=en) | Cuckatoo32 | PPLNS · SOLO | | 🆕 [Satoshi Cash](https://veinpool.fr/coin/scash?lang=en) | RandomX SCASH (CPU) | PPLNS · SOLO |
 | 🆕 [Zephyr](https://veinpool.fr/coin/zeph?lang=en) | RandomX (CPU) | PPLNS · SOLO | | 🆕 [Salvium](https://veinpool.fr/coin/sal?lang=en) | RandomX (CPU) | PPLNS · SOLO |
-| 🆕 [Yerbas](https://veinpool.fr/coin/yerb?lang=en) | Ghostrider (CPU) | PPLNS · SOLO | |  | |  |
+| 🆕 [Yerbas](https://veinpool.fr/coin/yerb?lang=en) | Ghostrider (CPU) | PPLNS · SOLO | | 🆕 [Karlsen](https://veinpool.fr/coin/kls?lang=en) | KarlsenHashV2 (GPU) | PPLNS · SOLO |
+
+**Coming next** (nodes syncing): Conceal (CCX, CryptoNight-GPU) · Phicoin (PHI, PhiHash).
 
 <table>
   <tr>
