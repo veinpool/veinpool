@@ -46,6 +46,12 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
   </tr>
 </table>
 
+### Live right now
+
+<p align="center"><a href="https://veinpool.fr/pools?lang=en"><img src="assets/live-now.png" width="49%" alt="10 rigs mining 5 coins on VEIN Pool"></a> <a href="https://veinpool.fr/blocks?lang=en"><img src="assets/rigs-online.png" width="49%" alt="Rigs online by coin"></a></p>
+
+**10 rigs · 5 coins · 576 blocks in 24 h · 3,949 blocks all-time** — 🎬 [live recap video](https://youtu.be/G5sRGdY7dUY)
+
 ### Coins
 
 | Coin | Algo | Mode | | Coin | Algo | Mode |
