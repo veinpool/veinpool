@@ -72,9 +72,9 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | [Grin](https://veinpool.fr/coin/grin?lang=en) | Cuckatoo32 | PPLNS · SOLO | | 🆕 [Satoshi Cash](https://veinpool.fr/coin/scash?lang=en) | RandomX SCASH (CPU) | PPLNS · SOLO |
 | 🆕 [Zephyr](https://veinpool.fr/coin/zeph?lang=en) | RandomX (CPU) | PPLNS · SOLO | | 🆕 [Salvium](https://veinpool.fr/coin/sal?lang=en) | RandomX (CPU) | PPLNS · SOLO |
 | 🆕 [Yerbas](https://veinpool.fr/coin/yerb?lang=en) | Ghostrider (CPU) | PPLNS · SOLO | | 🆕 [Karlsen](https://veinpool.fr/coin/kls?lang=en) | KarlsenHashV2 (GPU) | PPLNS · SOLO |
-| 🆕 [Riecoin](https://veinpool.fr/coin/ric?lang=en) | Stella primes (CPU) | PPLNS | |  | |  |
+| 🆕 [Riecoin](https://veinpool.fr/coin/ric?lang=en) | Stella primes (CPU) | PPLNS | | 🆕 [Conceal](https://veinpool.fr/coin/ccx?lang=en) | CryptoNight-GPU | PPLNS · SOLO |
 
-**Coming next** (nodes syncing): Conceal (CCX, CryptoNight-GPU) · Phicoin (PHI, PhiHash).
+**Coming next** (node syncing): Phicoin (PHI, PhiHash).
 
 <table>
   <tr>
