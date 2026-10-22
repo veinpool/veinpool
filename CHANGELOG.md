@@ -1,5 +1,13 @@
 # Changelog — veinpool.fr
 
+## 22 October 2026 — small-miner bonus
+
+- **Every PPLNS pool** (Miningcore coins, Kerrigan, Riecoin, WAM and the VEIN pool servers for Quantus, Tari, Xelis, Epic Cash, Grin, Zephyr, Salvium) now applies the small-miner bonus: an address holding less than 10 % of a block's shares gets its share raised by up to 5 %.
+- Funded **only by the pool fee** of that block; the other miners' share is never reduced. All bonuses of a block together never exceed that block's fee: rate = min(5 %, fee ÷ rewards of all small miners).
+- Credited automatically, shown as *Bonus petit mineur* in the payout history. No retroactive effect (blocks credited from 22 Oct 2026 16:57 UTC).
+- Site: bonus band on the home page and /pools, chip on every coin page, calculator note, FAQ entry, terms of use §2 (FR + EN).
+- Also today: one H1 / title / description per page shared by the pre-render and the app, one miner table and command generator, realistic profitability (your hashrate joins the network), aggregated public API `/api/pools` (all 35 coins, TLS ports declared), HSTS preload.
+
 ## V3.1 — 19 October 2026
 
 ### New pool cards

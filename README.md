@@ -7,12 +7,15 @@
   <img src="https://img.shields.io/badge/location-EU%20%F0%9F%87%AB%F0%9F%87%B7-2b6cb0?style=for-the-badge" alt="EU">
   <img src="https://img.shields.io/badge/modes-PPLNS%20%7C%20SOLO-28a745?style=for-the-badge" alt="modes">
   <img src="https://img.shields.io/badge/fee-1%25%20%C2%B7%20SOLO%20direct%200%25-ff8f4f?style=for-the-badge" alt="fees">
+  <img src="https://img.shields.io/badge/small--miner%20bonus-up%20to%20%2B5%25-58e3b8?style=for-the-badge" alt="small-miner bonus up to +5%">
   <img src="https://img.shields.io/badge/lang-EN%20%7C%20FR-8a2be2?style=for-the-badge" alt="EN FR">
 </p>
 
 **VEIN** runs mining pools for small and new proof-of-work coins. Every pool sits on **its own full node** — no proxy, no rented hashrate — and gives you the choice between **PPLNS** (steady payouts, shared by merit) and **SOLO** (the whole block is yours).
 
 <p align="center"><a href="https://veinpool.fr/?lang=en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
+
+> 💚 **New — small-miner bonus, up to +5 % on every PPLNS pool.** If your address holds less than 10 % of a block's shares, your share of that block is raised by up to 5 %, **paid out of our 1 % fee — never out of the other miners**. The rate falls fairly as small miners multiply: rate = min(5 %, 1 % ÷ share of the block held by all small miners) → +5 % each while small miners are ≤ 20 % of a block, +2 % at 50 %, +1 % with 100 small miners. Why: so a single GPU or a home CPU gets a real chance next to the farms. [Details](https://veinpool.fr/faq?lang=en#bonus)
 
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
