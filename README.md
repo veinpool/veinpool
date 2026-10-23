@@ -15,6 +15,8 @@
 
 <p align="center"><a href="https://veinpool.fr/?lang=en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
+> ₿ **New — Bitcoin SOLO lottery for NerdMiner, Bitaxe & ASIC.** Our own Bitcoin Core node, ports `3600` (NerdMiner, tiny start difficulty) · `3601` (Bitaxe / NerdAxe) · `3602` (SHA-256 ASIC). Find a block and the whole 3.125 BTC + fees is yours (minus 1 %). Honest odds: a lottery ticket, but a real one. → [veinpool.fr/en/coin/btc](https://veinpool.fr/en/coin/btc) · 🎬 [video](https://youtu.be/1s79oCt-czA)
+
 > 💚 **New — small-miner bonus, up to +5 % on every PPLNS pool.** If your address holds less than 10 % of a block's shares, your share of that block is raised by up to 5 %, **paid out of our 1 % fee — never out of the other miners**. The rate falls fairly as small miners multiply: rate = min(5 %, 1 % ÷ share of the block held by all small miners) → +5 % each while small miners are ≤ 20 % of a block, +2 % at 50 %, +1 % with 100 small miners. Why: so a single GPU or a home CPU gets a real chance next to the farms. [Details](https://veinpool.fr/faq?lang=en#bonus)
 
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
@@ -76,8 +78,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | 🆕 [Zephyr](https://veinpool.fr/coin/zeph?lang=en) | RandomX (CPU) | PPLNS · SOLO | | 🆕 [Salvium](https://veinpool.fr/coin/sal?lang=en) | RandomX (CPU) | PPLNS · SOLO |
 | 🆕 [Yerbas](https://veinpool.fr/coin/yerb?lang=en) | Ghostrider (CPU) | PPLNS · SOLO | | 🆕 [Karlsen](https://veinpool.fr/coin/kls?lang=en) | KarlsenHashV2 (GPU) | PPLNS · SOLO |
 | 🆕 [Riecoin](https://veinpool.fr/coin/ric?lang=en) | Stella primes (CPU) | PPLNS | | 🆕 [Conceal](https://veinpool.fr/coin/ccx?lang=en) | CryptoNight-GPU | PPLNS · SOLO |
-
-**Coming next** (node syncing): Phicoin (PHI, PhiHash).
+| 🆕 [Phicoin](https://veinpool.fr/coin/phi?lang=en) | PhiHash (GPU) | PPLNS · SOLO | | 🆕 [**Bitcoin**](https://veinpool.fr/en/coin/btc) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO lottery |
 
 <table>
   <tr>
