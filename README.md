@@ -80,6 +80,8 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | 🆕 [Riecoin](https://veinpool.fr/coin/ric?lang=en) | Stella primes (CPU) | PPLNS | | 🆕 [Conceal](https://veinpool.fr/coin/ccx?lang=en) | CryptoNight-GPU | PPLNS · SOLO |
 | 🆕 [Phicoin](https://veinpool.fr/coin/phi?lang=en) | PhiHash (GPU) | PPLNS · SOLO | | 🆕 [**Bitcoin**](https://veinpool.fr/en/coin/btc) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO lottery |
 
+**Opening next** (nodes syncing, pools configured): Bitcoin Cash (SHA-256, NerdMiner / Bitaxe / ASIC), Litecoin and Dogecoin (Scrypt ASIC), all in SOLO.
+
 <table>
   <tr>
     <td width="50%"><a href="https://veinpool.fr/pools?lang=en"><img src="assets/site-pools.jpg" alt="Pool cards with live stats and blocks found by VEIN"></a></td>

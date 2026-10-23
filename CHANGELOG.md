@@ -6,6 +6,7 @@
 - The miner who finds a block receives the whole 3.125 BTC + transaction fees, minus the 1 % pool fee, paid automatically (minimum 0.001 BTC).
 - Site: ASIC badge and filter, ASIC hardware in the calculator (NerdMiner, Bitaxe Gamma / Supra, NerdQAxe++, Antminer S21 / S21 Pro / S19k Pro, Whatsminer M60S), and a setup wizard that shows the settings to type in the device's web page instead of a command line.
 - Video: https://youtu.be/1s79oCt-czA · Short: https://youtu.be/DAZfuFHHP5Y
+- Next: Bitcoin Cash (ports `3610`–`3612`), Litecoin (`3620` / `3622`) and Dogecoin (`3630` / `3632`) nodes are syncing; their SOLO pools are configured and open as soon as each node is in sync.
 
 ## 22 October 2026 — small-miner bonus
 
