@@ -1,5 +1,14 @@
 # Changelog — veinpool.fr
 
+## 24 October 2026 — Bitcoin Cash & Litecoin SOLO (ASIC)
+
+- **Bitcoin Cash** opens in SOLO on our own BCHN node: `3610` NerdMiner / ESP32, `3611` Bitaxe / NerdAxe, `3612` SHA-256 ASIC (TLS `13610`–`13612`). The network is about 325 times smaller than Bitcoin's: at the hashrate of 24 October, a 200 TH/s Antminer S21 finds a block every ~109 days on average (vs ~97 years solo on Bitcoin). Whole block to the finder: 3.125 BCH + fees, minus 1 %.
+- **Litecoin** opens in SOLO on our own Litecoin Core node: `3620` mini Scrypt miners, `3622` Scrypt ASIC (TLS `13620` / `13622`). An Antminer L9 (16 GH/s) has about a 70 % chance per year to hit a whole 6.25 LTC block. LTC only: no merged Dogecoin.
+- Coin pages now list **every miner of the pool**: address, hashrate, pool share and, in PPLNS, the live share of the next block with the small-miner bonus.
+- Mobile: smoother scrolling (no backdrop blur on phones, animations paused off screen, blocks shown before they scroll into view).
+- Videos: [BCH](https://youtu.be/zVRQ4VzgS2I) · [LTC](https://youtu.be/4ZqekUTB25o) · Shorts [BCH](https://youtu.be/RwRtEX_PN50) · [LTC](https://youtu.be/9UyeZsjDlTs)
+- Next: Dogecoin (`3630` / `3632`) once its node is in sync.
+
 ## 23 October 2026 — Bitcoin SOLO lottery (NerdMiner, Bitaxe, ASIC)
 
 - **Bitcoin** opens in SOLO on our own Bitcoin Core 31.1 node: port `3600` for NerdMiner / ESP32 (start difficulty 0.0005, so a ~50 kH/s device sees its shares), `3601` for Bitaxe / NerdAxe / NerdQAxe, `3602` for SHA-256 ASICs. TLS on `13600`–`13602`.

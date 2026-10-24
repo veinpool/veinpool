@@ -15,13 +15,15 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ₿ **New — Bitcoin SOLO lottery for NerdMiner, Bitaxe & ASIC.** Our own Bitcoin Core node, ports `3600` (NerdMiner, tiny start difficulty) · `3601` (Bitaxe / NerdAxe) · `3602` (SHA-256 ASIC). Find a block and the whole 3.125 BTC + fees is yours (minus 1 %). Honest odds: a lottery ticket, but a real one. → [veinpool.fr/en/coin/btc](https://veinpool.fr/en/coin/btc) · 🎬 [video](https://youtu.be/1s79oCt-czA)
+> ⚡ **New — Bitcoin Cash & Litecoin SOLO for ASICs.** Same SHA-256 ASIC, very different odds: a 200 TH/s S21 solo finds a block about every **97 years** on Bitcoin, about every **3.5 months** on Bitcoin Cash (ports `3610` NerdMiner · `3611` Bitaxe · `3612` ASIC). Litecoin for Scrypt ASICs: an Antminer L9 has about a **70 % chance per year** to hit a whole 6.25 LTC block (ports `3620` / `3622`, LTC only). Own full nodes, 1 % fee, no KYC. → [bch](https://veinpool.fr/en/coin/bch) · [ltc](https://veinpool.fr/en/coin/ltc) · 🎬 [BCH video](https://youtu.be/zVRQ4VzgS2I) · [LTC video](https://youtu.be/4ZqekUTB25o)
+
+> ₿ **Bitcoin SOLO lottery for NerdMiner, Bitaxe & ASIC.** Our own Bitcoin Core node, ports `3600` (NerdMiner, tiny start difficulty) · `3601` (Bitaxe / NerdAxe) · `3602` (SHA-256 ASIC). Find a block and the whole 3.125 BTC + fees is yours (minus 1 %). Honest odds: a lottery ticket, but a real one. → [veinpool.fr/en/coin/btc](https://veinpool.fr/en/coin/btc) · 🎬 [video](https://youtu.be/1s79oCt-czA)
 
 > 💚 **New — small-miner bonus, up to +5 % on every PPLNS pool.** If your address holds less than 10 % of a block's shares, your share of that block is raised by up to 5 %, **paid out of our 1 % fee — never out of the other miners**. The rate falls fairly as small miners multiply: rate = min(5 %, 1 % ÷ share of the block held by all small miners) → +5 % each while small miners are ≤ 20 % of a block, +2 % at 50 %, +1 % with 100 small miners. Why: so a single GPU or a home CPU gets a real chance next to the farms. [Details](https://veinpool.fr/en/faq#bonus)
 
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
-- ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash, Litecoin and Dogecoin next
+- ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) SOLO for ASICs; Dogecoin next
 - 🪙 **SOLO direct** on Warthog, Dero and Zycord: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
@@ -56,7 +58,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**36 pools (GPU · CPU · ASIC) · 10,971 blocks found all-time** (23 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**38 pools (GPU · CPU · ASIC) · 10,971 blocks found all-time** (23 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
@@ -80,8 +82,9 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | 🆕 [Yerbas](https://veinpool.fr/en/coin/yerb) | Ghostrider (CPU) | PPLNS · SOLO | | 🆕 [Karlsen](https://veinpool.fr/en/coin/kls) | KarlsenHashV2 (GPU) | PPLNS · SOLO |
 | 🆕 [Riecoin](https://veinpool.fr/en/coin/ric) | Stella primes (CPU) | PPLNS | | 🆕 [Conceal](https://veinpool.fr/en/coin/ccx) | CryptoNight-GPU | PPLNS · SOLO |
 | 🆕 [Phicoin](https://veinpool.fr/en/coin/phi) | PhiHash (GPU) | PPLNS · SOLO | | 🆕 [**Bitcoin**](https://veinpool.fr/en/coin/btc) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO lottery |
+| 🆕 [**Bitcoin Cash**](https://veinpool.fr/en/coin/bch) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO | | 🆕 [**Litecoin**](https://veinpool.fr/en/coin/ltc) | Scrypt (ASIC) | SOLO |
 
-**Opening next** (nodes syncing, pools configured): Bitcoin Cash (SHA-256, NerdMiner / Bitaxe / ASIC), Litecoin and Dogecoin (Scrypt ASIC), all in SOLO.
+**Opening next** (node syncing, pool configured): Dogecoin (Scrypt ASIC, SOLO).
 
 <table>
   <tr>
