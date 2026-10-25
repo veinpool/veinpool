@@ -15,6 +15,8 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
+> 🐕 **New — Dogecoin SOLO for Scrypt ASICs** (25 Oct): one block a minute, 10,000 DOGE per block; at today's network hashrate an Antminer L9 finds a whole block about every **4 months** on average (ports `3630` mini / `3632` ASIC, DOGE only). And **Epic Cash now takes CPUs too** (RandomX, `randomepic` on `3150`): mine Epic with your GPU and your CPU at the same time. → [doge](https://veinpool.fr/en/coin/doge) · [epic](https://veinpool.fr/en/coin/epic)
+>
 > ⚡ **New — Bitcoin Cash & Litecoin SOLO for ASICs.** Same SHA-256 ASIC, very different odds: a 200 TH/s S21 solo finds a block about every **97 years** on Bitcoin, about every **3.5 months** on Bitcoin Cash (ports `3610` NerdMiner · `3611` Bitaxe · `3612` ASIC). Litecoin for Scrypt ASICs: an Antminer L9 has about a **70 % chance per year** to hit a whole 6.25 LTC block (ports `3620` / `3622`, LTC only). Own full nodes, 1 % fee, no KYC. → [bch](https://veinpool.fr/en/coin/bch) · [ltc](https://veinpool.fr/en/coin/ltc) · 🎬 [BCH video](https://youtu.be/zVRQ4VzgS2I) · [LTC video](https://youtu.be/4ZqekUTB25o)
 
 > ₿ **Bitcoin SOLO lottery for NerdMiner, Bitaxe & ASIC.** Our own Bitcoin Core node, ports `3600` (NerdMiner, tiny start difficulty) · `3601` (Bitaxe / NerdAxe) · `3602` (SHA-256 ASIC). Find a block and the whole 3.125 BTC + fees is yours (minus 1 %). Honest odds: a lottery ticket, but a real one. → [veinpool.fr/en/coin/btc](https://veinpool.fr/en/coin/btc) · 🎬 [video](https://youtu.be/1s79oCt-czA)
@@ -23,7 +25,7 @@
 
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
-- ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) SOLO for ASICs; Dogecoin next
+- ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) and Dogecoin (`3630` / `3632`) SOLO for ASICs
 - 🪙 **SOLO direct** on Warthog, Dero and Zycord: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
@@ -84,7 +86,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 | 🆕 [Phicoin](https://veinpool.fr/en/coin/phi) | PhiHash (GPU) | PPLNS · SOLO | | 🆕 [**Bitcoin**](https://veinpool.fr/en/coin/btc) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO lottery |
 | 🆕 [**Bitcoin Cash**](https://veinpool.fr/en/coin/bch) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO | | 🆕 [**Litecoin**](https://veinpool.fr/en/coin/ltc) | Scrypt (ASIC) | SOLO |
 
-**Opening next** (node syncing, pool configured): Dogecoin (Scrypt ASIC, SOLO).
+| 🆕 [**Dogecoin**](https://veinpool.fr/en/coin/doge) | Scrypt (ASIC) | SOLO | | 🆕 [Epic Cash](https://veinpool.fr/en/coin/epic) | ProgPow (GPU) + RandomX (CPU) | PPLNS · SOLO |
 
 <table>
   <tr>

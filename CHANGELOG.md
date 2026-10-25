@@ -1,5 +1,11 @@
 # Changelog — veinpool.fr
 
+## 25 October 2026 — Dogecoin SOLO, Epic Cash on CPU
+
+- **Dogecoin** opens in SOLO on our own Dogecoin Core node: `3630` mini Scrypt miners, `3632` Scrypt ASIC. One block a minute, 10,000 DOGE per block. At the network hashrate of 25 October (~2.7 PH/s), an Antminer L9 (16 GH/s) finds a block about every 4 months on average. DOGE only: no merged Litecoin.
+- **Epic Cash** pool now accepts RandomX (CPU) shares as well as ProgPow (GPU) on port `3150`: run SRBMiner `randomepic` on the CPU and `progpow_epic` on the GPU with the same address. Shares count only on blocks of their own algorithm.
+- Epic Cash payouts are automatic (epicbox), with a delivery check: an unanswered transaction is cancelled and sent again.
+
 ## 24 October 2026 — Bitcoin Cash & Litecoin SOLO (ASIC)
 
 - **Bitcoin Cash** opens in SOLO on our own BCHN node: `3610` NerdMiner / ESP32, `3611` Bitaxe / NerdAxe, `3612` SHA-256 ASIC (TLS `13610`–`13612`). The network is about 325 times smaller than Bitcoin's: at the hashrate of 24 October, a 200 TH/s Antminer S21 finds a block every ~109 days on average (vs ~97 years solo on Bitcoin). Whole block to the finder: 3.125 BCH + fees, minus 1 %.
