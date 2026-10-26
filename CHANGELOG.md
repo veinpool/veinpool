@@ -1,5 +1,11 @@
 # Changelog — veinpool.fr
 
+## 26 October 2026 — 40 coins, Lajkto Coin
+
+- **40 open pools**: 20 for GPUs, 16 for CPUs, 4 for ASICs (Bitcoin, Bitcoin Cash, Litecoin, Dogecoin in SOLO).
+- **Lajkto Coin (LKCT)** opens in SOLO direct at 0 % on port `3702` (TLS `13702`): our node builds each block template for the miner's own `L…` address, so a found block (20 LKCT) is paid by the chain itself. RandomX, one block a minute, XMRig `-a rx/0`. Young coin: source mostly closed, 15 % founder premine, no exchange listing yet.
+- Coin logos are now shipped with every site deploy.
+
 ## 25 October 2026 — Dogecoin SOLO, Epic Cash on CPU
 
 - **Dogecoin** opens in SOLO on our own Dogecoin Core node: `3630` mini Scrypt miners, `3632` Scrypt ASIC. One block a minute, 10,000 DOGE per block. At the network hashrate of 25 October (~2.7 PH/s), an Antminer L9 (16 GH/s) finds a block about every 4 months on average. DOGE only: no merged Litecoin.
