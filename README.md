@@ -15,7 +15,7 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ⛏️ **43 coins to mine** (28 Oct): **22 GPU · 17 CPU · 4 ASIC**, PPLNS or SOLO, every one on its own full node. Newest: **Kiirocoin (KIIRO)** (FiroPoW GPU, same settings as Firo, ports `3650`–`3652`), **FortuneBlock (FBX)** (Mike CPU, ports `3660`–`3662`) and **RIGOR (ORU)** (launched 25 Oct, no premine, SOLO direct at 0 % on port `3642`, blocks paid straight to your address). → [all pools](https://veinpool.fr/en/pools) · [kiiro](https://veinpool.fr/en/coin/kiiro) · [fbx](https://veinpool.fr/en/coin/fbx) · [oru](https://veinpool.fr/en/coin/oru)
+> ⛏️ **42 coins to mine** (28 Oct): **21 GPU · 17 CPU · 4 ASIC**, PPLNS or SOLO, every one on its own full node. Newest: **FortuneBlock (FBX)** (Mike CPU, ports `3660`–`3662`) and **RIGOR (ORU)** (launched 25 Oct, no premine, SOLO direct at 0 % on port `3642`, blocks paid straight to your address); **Kiirocoin (KIIRO)** (FiroPoW GPU) opens in a few days. → [all pools](https://veinpool.fr/en/pools) · [kiiro](https://veinpool.fr/en/coin/kiiro) · [fbx](https://veinpool.fr/en/coin/fbx) · [oru](https://veinpool.fr/en/coin/oru)
 
 <p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="40 coins on VEIN Pool: 20 GPU, 16 CPU, 4 ASIC" width="92%"></a></p>
 
