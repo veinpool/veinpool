@@ -15,7 +15,7 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ⛏️ **40 coins to mine** (26 Oct): **20 GPU · 16 CPU · 4 ASIC**, PPLNS or SOLO, every one on its own full node. Newest: **Lajkto Coin (LKCT)**, a young RandomX CPU coin in SOLO direct at 0 % on port `3702` (blocks paid straight to your address; source mostly closed, 15 % founder premine, not listed on an exchange yet). → [all pools](https://veinpool.fr/en/pools) · [lkct](https://veinpool.fr/en/coin/lkct)
+> ⛏️ **43 coins to mine** (28 Oct): **22 GPU · 17 CPU · 4 ASIC**, PPLNS or SOLO, every one on its own full node. Newest: **Kiirocoin (KIIRO)** (FiroPoW GPU, same settings as Firo, ports `3650`–`3652`), **FortuneBlock (FBX)** (Mike CPU, ports `3660`–`3662`) and **RIGOR (ORU)** (launched 25 Oct, no premine, SOLO direct at 0 % on port `3642`, blocks paid straight to your address). → [all pools](https://veinpool.fr/en/pools) · [kiiro](https://veinpool.fr/en/coin/kiiro) · [fbx](https://veinpool.fr/en/coin/fbx) · [oru](https://veinpool.fr/en/coin/oru)
 
 <p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="40 coins on VEIN Pool: 20 GPU, 16 CPU, 4 ASIC" width="92%"></a></p>
 
@@ -30,7 +30,7 @@
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
 - ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) and Dogecoin (`3630` / `3632`) SOLO for ASICs
-- 🪙 **SOLO direct** on Warthog, Dero, Zycord and Lajkto Coin: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
+- 🪙 **SOLO direct** on Warthog, Dero, Zycord, Lajkto Coin and RIGOR: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
 - 📈 **New in V3 — live markets**: a TradingView-style candlestick chart on every coin page (15 min → 1 day, refreshed every 10 s from the coin's main exchange) and a live screener of all VEIN coins on the home page

@@ -1,5 +1,12 @@
 # Changelog — veinpool.fr
 
+## 28 October 2026 — 43 coins: Kiirocoin, FortuneBlock, RIGOR
+
+- **Kiirocoin (KIIRO)** opens in PPLNS (`3650`, farms `3651`) and SOLO (`3652`), TLS `+10000`. FiroPoW, the same algorithm as Firo: T-Rex, SRBMiner, TeamRedMiner, GMiner and WildRig work with Firo settings. 18.3 KIIRO to the miner every ~2.5 minutes.
+- **FortuneBlock (FBX)** opens for CPUs in PPLNS (`3660`, servers `3661`) and SOLO (`3662`). Mike algorithm (SRBMiner `--algorithm mike`), 250 FBX per block every ~2 minutes, 112.5 FBX to the miner (the rest goes to smartnodes and the project fund). Not listed on an exchange yet.
+- **RIGOR (ORU)** opens in SOLO direct at 0 % on port `3642`. Launched 25 October 2026 with no premine and no founder share, 128 ORU per block every 10 minutes. No stratum: the miner asks our node for work over getblocktemplate (`http://veinpool.fr:3642`) and each block it finds pays the miner's `rg1q…` address in the chain itself. Not listed yet.
+- Server: the pool polls its nodes less often for slow coins and drops dead SSH sessions, which frees memory and CPU on the pool server.
+
 ## 26 October 2026 — 40 coins, Lajkto Coin
 
 - **40 open pools**: 20 for GPUs, 16 for CPUs, 4 for ASICs (Bitcoin, Bitcoin Cash, Litecoin, Dogecoin in SOLO).
