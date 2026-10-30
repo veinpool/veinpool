@@ -15,7 +15,9 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ⛏️ **42 coins to mine** (28 Oct): **21 GPU · 17 CPU · 4 ASIC**, PPLNS or SOLO, every one on its own full node. Newest: **FortuneBlock (FBX)** (Mike CPU, ports `3660`–`3662`) and **RIGOR (ORU)** (launched 25 Oct, no premine, SOLO direct at 0 % on port `3642`, blocks paid straight to your address); **Kiirocoin (KIIRO)** (FiroPoW GPU) opens in a few days. → [all pools](https://veinpool.fr/en/pools) · [kiiro](https://veinpool.fr/en/coin/kiiro) · [fbx](https://veinpool.fr/en/coin/fbx) · [oru](https://veinpool.fr/en/coin/oru)
+> ⛏️ **49 coins to mine** (30 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
+>
+> 🧑‍🤝‍🧑 **New — Squads (beta).** A third mode between PPLNS and SOLO: a small closed group mines solo together and shares **only the blocks the group finds**, by merit (window of 2 network difficulties). No account: add the squad code to your rig name (`7KQ2-rig1`) and use the squad port — Satoxcoin `3143`, Feelcoin `3293`, Phicoin `3573`. Every block gets a public split statement with its SHA-256 fingerprint. → [create or join a squad](https://veinpool.fr/escouades?lang=en)
 
 <p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="40 coins on VEIN Pool: 20 GPU, 16 CPU, 4 ASIC" width="92%"></a></p>
 
@@ -64,12 +66,16 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**38 pools (GPU · CPU · ASIC) · 10,971 blocks found all-time** (23 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**49 pools (GPU · CPU · ASIC) · 22,500+ blocks found all-time** (30 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
 | Coin | Algo | Mode | | Coin | Algo | Mode |
 |---|---|---|---|---|---|---|
+| 🆕 [GSP Coin](https://veinpool.fr/en/coin/gspc) | GhostRider (CPU) | PPLNS · SOLO | | 🆕 [GoByte](https://veinpool.fr/en/coin/gbx) | NeoScrypt | PPLNS · SOLO |
+| 🆕 [Vertcoin](https://veinpool.fr/en/coin/vtc) | Verthash | PPLNS | | 🆕 [Zero](https://veinpool.fr/en/coin/zer) | Equihash 192,7 | PPLNS · SOLO |
+| 🆕 [Feathercoin](https://veinpool.fr/en/coin/ftc) | NeoScrypt | PPLNS · SOLO | | 🆕 [Phoenixcoin](https://veinpool.fr/en/coin/pxc) | NeoScrypt | PPLNS · SOLO |
+| 🆕 [Groestlcoin](https://veinpool.fr/en/coin/grs) | Groestl | PPLNS · SOLO | | 🆕 [Lajkto Coin](https://veinpool.fr/en/coin/lkct) | RandomX (CPU) | SOLO direct |
 | 🆕 [CapStash](https://veinpool.fr/en/coin/cap) | WhirlpoolX2 (NVIDIA) | PPLNS · SOLO | | 🆕 [Nexa](https://veinpool.fr/en/coin/nexa) | NexaPow | PPLNS · SOLO |
 | 🆕 [LuckyPepe](https://veinpool.fr/en/coin/lpepe) | YescryptR32 (CPU) | PPLNS · SOLO | | 🆕 [Kylacoin](https://veinpool.fr/en/coin/kcn) | Flex (CPU) | PPLNS · SOLO |
 | 🆕 [Cascoin](https://veinpool.fr/en/coin/cas) | MinotaurX (CPU) | PPLNS · SOLO | | 🆕 [Tidecoin](https://veinpool.fr/en/coin/tdc) | YespowerTIDE (CPU) | PPLNS · SOLO |
