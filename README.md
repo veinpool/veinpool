@@ -17,7 +17,7 @@
 
 > ⛏️ **49 coins to mine** (30 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
 >
-> 🧑‍🤝‍🧑 **New — Squads (beta).** A third mode between PPLNS and SOLO: a small closed group mines solo together and shares **only the blocks the group finds**, by merit (window of 2 network difficulties). No account: add the squad code to your rig name (`7KQ2-rig1`) and use the squad port — Satoxcoin `3143`, Feelcoin `3293`, Phicoin `3573`. Every block gets a public split statement with its SHA-256 fingerprint. → [create or join a squad](https://veinpool.fr/escouades?lang=en)
+> 🧑‍🤝‍🧑 **New — Squads (beta).** A third mode between PPLNS and SOLO: a small closed group mines solo together and shares **only the blocks the group finds**, by merit (window of 2 network difficulties). No account: add the squad code to your rig name (`7KQ2-rig1`) and use the squad port — Satoxcoin `3143`, Feelcoin `3293`, Phicoin `3573`. Every block gets a public split statement with its SHA-256 fingerprint. → [create or join a squad](https://veinpool.fr/en/escouades)
 
 <p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="40 coins on VEIN Pool: 20 GPU, 16 CPU, 4 ASIC" width="92%"></a></p>
 
