@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VEIN Pool — multi-coin mining pool, PPLNS & SOLO, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 50+ coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -15,11 +15,15 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ⛏️ **49 coins to mine** (30 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
+> 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
+>
+> 🟢 **Tenero (TNR) mainnet — 1 Nov**: VeinPool runs the official tenero-pool from block 1 (GPU, CUDA, port `3950`, 2.5 % fee). → [tenero](https://veinpool.fr/en/coin/tnr)
+
+> ⛏️ **51 coins to mine** (31 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
 >
 > 🧑‍🤝‍🧑 **New — Squads (beta).** A third mode between PPLNS and SOLO: a small closed group mines solo together and shares **only the blocks the group finds**, by merit (window of 2 network difficulties). No account: add the squad code to your rig name (`7KQ2-rig1`) and use the squad port — Satoxcoin `3143`, Feelcoin `3293`, Phicoin `3573`. Every block gets a public split statement with its SHA-256 fingerprint. → [create or join a squad](https://veinpool.fr/en/escouades)
 
-<p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="40 coins on VEIN Pool: 20 GPU, 16 CPU, 4 ASIC" width="92%"></a></p>
+<p align="center"><a href="https://veinpool.fr/en/pools"><img src="assets/40-coins.jpg" alt="50+ coins on VeinPool: GPU, CPU and ASIC" width="92%"></a></p>
 
 > 🐕 **New — Dogecoin SOLO for Scrypt ASICs** (25 Oct): one block a minute, 10,000 DOGE per block; at today's network hashrate an Antminer L9 finds a whole block about every **4 months** on average (ports `3630` mini / `3632` ASIC, DOGE only). And **Epic Cash now takes CPUs too** (RandomX, `randomepic` on `3150`): mine Epic with your GPU and your CPU at the same time. → [doge](https://veinpool.fr/en/coin/doge) · [epic](https://veinpool.fr/en/coin/epic)
 >
@@ -66,7 +70,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**49 pools (GPU · CPU · ASIC) · 22,500+ blocks found all-time** (30 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**51 coins (GPU · CPU · ASIC) · 22,000+ blocks found all-time** (31 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
