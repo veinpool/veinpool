@@ -16,7 +16,6 @@
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
 > 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
->
 
 > ⛏️ **51 coins to mine** (31 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
 >
