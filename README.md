@@ -17,7 +17,6 @@
 
 > 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
 >
-> 🟢 **Tenero (TNR) mainnet — 1 Nov**: VeinPool runs the official tenero-pool from block 1 (GPU, CUDA, port `3950`, 2.5 % fee). → [tenero](https://veinpool.fr/en/coin/tnr)
 
 > ⛏️ **51 coins to mine** (31 Oct): GPU, CPU and ASIC, PPLNS or SOLO, every one on its own full node. Newest: **GSP Coin** (GhostRider CPU), **GoByte**, **Feathercoin** and **Phoenixcoin** (NeoScrypt), **Vertcoin** (Verthash), **Zero** (Equihash 192,7) and **Groestlcoin** (Groestl). → [all pools](https://veinpool.fr/en/pools)
 >
