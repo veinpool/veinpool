@@ -1,5 +1,14 @@
 # Changelog — veinpool.fr
 
+## 3 November 2026 — 55 coins: Garlicoin, Yenten, MazaCoin, Litecoin Cash
+
+- **Garlicoin (GRLC)** opens for GPUs: PPLNS `3850` (servers `3851`), SOLO `3852`. Allium algorithm (SRBMiner `--algorithm allium`). Our pool engine now ships its own Allium hash library, checked against real Garlicoin blocks before opening.
+- **Yenten (YTN)** opens for CPUs: PPLNS `3860` (servers `3861`), SOLO `3862`. YespowerR16, cpuminer-opt `-a yespowerr16`.
+- **MazaCoin (MAZA)** and **Litecoin Cash (LCC)** open for CPUs on MinotaurX: MAZA `3870` / `3872`, LCC `3880` / `3882`.
+- **Satoshi Cash**: the setup wizard now offers the official cpuminer-scash (SHA-256 checked) next to SRBMiner, on Windows, Linux and HiveOS.
+- Blocks page: a pending block could briefly show twice right after it was found; fixed.
+- Videos: [Garlicoin](https://youtu.be/a9CyFd_-Tio) · [Yenten](https://youtu.be/uHf0MNVdu6A) · [MazaCoin](https://youtu.be/ZuDNlRV685g) · [Vertcoin](https://youtu.be/eiaynKHWGTU) · [GoByte](https://youtu.be/Q28jpynoqFE)
+
 ## 28 October 2026 — 42 coins: FortuneBlock, RIGOR (Kiirocoin in a few days)
 
 - **Kiirocoin (KIIRO)**: node ready, pools `3650` (PPLNS) and `3652` (SOLO) open in a few days, once our pool engine builds Kiirocoin blocks correctly (masternode, community and developer outputs). FiroPoW, same settings as Firo. A block is 30 KIIRO every ~2.5 minutes, 6 KIIRO of it to the miner.

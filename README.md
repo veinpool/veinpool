@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 50+ coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 55 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
 **VEIN** runs mining pools for small and new proof-of-work coins. Every pool sits on **its own full node** — no proxy, no rented hashrate — and gives you the choice between **PPLNS** (steady payouts, shared by merit) and **SOLO** (the whole block is yours).
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
+
+> ⛏️ **55 coins to mine** (3 Nov): four new pools, each on its own full node, PPLNS and SOLO. **Garlicoin** (Allium, GPU · `3850` / SOLO `3852`), **Yenten** (YespowerR16, CPU · `3860` / `3862`), **MazaCoin** (MinotaurX, CPU · `3870` / `3872`) and **Litecoin Cash** (MinotaurX, CPU · `3880` / `3882`). Satoshi Cash can now be mined with the official **cpuminer-scash** as well as SRBMiner. → [garlicoin](https://veinpool.fr/en/coin/grlc) · [yenten](https://veinpool.fr/en/coin/ytn) · [mazacoin](https://veinpool.fr/en/coin/maza) · [litecoin cash](https://veinpool.fr/en/coin/lcc) · 🎬 [GRLC](https://youtu.be/a9CyFd_-Tio) · [YTN](https://youtu.be/uHf0MNVdu6A) · [MAZA](https://youtu.be/ZuDNlRV685g) · [VTC](https://youtu.be/eiaynKHWGTU)
 
 > 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
 
