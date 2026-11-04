@@ -1,5 +1,16 @@
 # Changelog — veinpool.fr
 
+## 4 November 2026 — block seismograph, real hardware boxes, payouts
+
+- **Block seismograph** on the home page: the last 24 h of the whole pool, one tremor per clock quarter hour with every coin stacked in its colour, an hour and a count scale, the key figures (blocks, rhythm, busiest hour, last block), a tooltip per quarter hour (pointer or arrow keys) and a legend of the coins.
+- **Most mined GPU / CPU**: a coin mined with both now goes to the box of the hardware its rigs really use, read from their mining software (a CPU on GoByte no longer shows GoByte in the GPU box).
+- **Blocks page and home agree**: the Lajkto Coin pool now pages its whole block history (the page only saw its 100 newest of 3,000+ blocks); the summary names the 3 coins worth the most and how many others the euro total includes.
+- **Tari pool**: a rig that reconnects within 2 minutes stays online (one miner reconnecting every 20 s made the rig counter jump) and keeps its share of the blocks found meanwhile.
+- **Payouts**: Garlicoin payouts were stuck (the pool address sat in a labelled wallet account that the payout call does not spend); fixed and paid, the same trap removed on six more wallets, and the payout guard now repairs it by itself.
+- **Real block rewards** on Garlicoin (0.0977 GRLC), Litecoin Cash, Yenten, MazaCoin and LuckyPepe, checked against each node; Garlicoin earnings were shown far too high.
+- **Garlicoin miners**: ccminer (NVIDIA) and cpuminer-opt (CPU); SRBMiner has no Allium, it is no longer offered.
+- **Zycord**: node upgraded to 0.7.1 for the mandatory Overture fork.
+
 ## 3 November 2026 — 55 coins: Garlicoin, Yenten, MazaCoin, Litecoin Cash
 
 - **Garlicoin (GRLC)** opens for GPUs: PPLNS `3850` (servers `3851`), SOLO `3852`. Allium algorithm (SRBMiner `--algorithm allium`). Our pool engine now ships its own Allium hash library, checked against real Garlicoin blocks before opening.

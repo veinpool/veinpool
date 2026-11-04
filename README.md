@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 55 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 53 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,11 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
-> ⛏️ **55 coins to mine** (3 Nov): four new pools, each on its own full node, PPLNS and SOLO. **Garlicoin** (Allium, GPU · `3850` / SOLO `3852`), **Yenten** (YespowerR16, CPU · `3860` / `3862`), **MazaCoin** (MinotaurX, CPU · `3870` / `3872`) and **Litecoin Cash** (MinotaurX, CPU · `3880` / `3882`). Satoshi Cash can now be mined with the official **cpuminer-scash** as well as SRBMiner. → [garlicoin](https://veinpool.fr/en/coin/grlc) · [yenten](https://veinpool.fr/en/coin/ytn) · [mazacoin](https://veinpool.fr/en/coin/maza) · [litecoin cash](https://veinpool.fr/en/coin/lcc) · 🎬 [GRLC](https://youtu.be/a9CyFd_-Tio) · [YTN](https://youtu.be/uHf0MNVdu6A) · [MAZA](https://youtu.be/ZuDNlRV685g) · [VTC](https://youtu.be/eiaynKHWGTU)
+> 📈 **New — block seismograph** (4 Nov): the home page now shows the last 24 h of the whole pool as a seismogram, one tremor per clock quarter hour, every coin in its own colour, with the rhythm (≈ one block every 1.4 min right now), the busiest hour and the last block; hover or use the arrow keys for the detail of each quarter hour. The *most mined* GPU and CPU boxes now follow the hardware the rigs really use, read from their mining software. → [veinpool.fr/en](https://veinpool.fr/en) · [all blocks](https://veinpool.fr/en/blocks)
+
+<p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-seismograph.jpg" alt="Block seismograph: the last hours of the whole pool, one tremor per quarter hour, every coin in its colour" width="92%"></a></p>
+
+> ⛏️ **53 coins to mine** (3 Nov): four new pools, each on its own full node, PPLNS and SOLO. **Garlicoin** (Allium, GPU · `3850` / SOLO `3852`), **Yenten** (YespowerR16, CPU · `3860` / `3862`), **MazaCoin** (MinotaurX, CPU · `3870` / `3872`) and **Litecoin Cash** (MinotaurX, CPU · `3880` / `3882`). Satoshi Cash can now be mined with the official **cpuminer-scash** as well as SRBMiner. → [garlicoin](https://veinpool.fr/en/coin/grlc) · [yenten](https://veinpool.fr/en/coin/ytn) · [mazacoin](https://veinpool.fr/en/coin/maza) · [litecoin cash](https://veinpool.fr/en/coin/lcc) · 🎬 [GRLC](https://youtu.be/a9CyFd_-Tio) · [YTN](https://youtu.be/uHf0MNVdu6A) · [MAZA](https://youtu.be/ZuDNlRV685g) · [VTC](https://youtu.be/eiaynKHWGTU)
 
 > 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
 
@@ -70,37 +74,83 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**51 coins (GPU · CPU · ASIC) · 22,000+ blocks found all-time** (31 Oct 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**53 coins (GPU · CPU · ASIC) · 29,000+ blocks found all-time** (4 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
-| Coin | Algo | Mode | | Coin | Algo | Mode |
-|---|---|---|---|---|---|---|
-| 🆕 [GSP Coin](https://veinpool.fr/en/coin/gspc) | GhostRider (CPU) | PPLNS · SOLO | | 🆕 [GoByte](https://veinpool.fr/en/coin/gbx) | NeoScrypt | PPLNS · SOLO |
-| 🆕 [Vertcoin](https://veinpool.fr/en/coin/vtc) | Verthash | PPLNS | | 🆕 [Zero](https://veinpool.fr/en/coin/zer) | Equihash 192,7 | PPLNS · SOLO |
-| 🆕 [Feathercoin](https://veinpool.fr/en/coin/ftc) | NeoScrypt | PPLNS · SOLO | | 🆕 [Phoenixcoin](https://veinpool.fr/en/coin/pxc) | NeoScrypt | PPLNS · SOLO |
-| 🆕 [Groestlcoin](https://veinpool.fr/en/coin/grs) | Groestl | PPLNS · SOLO | | 🆕 [Lajkto Coin](https://veinpool.fr/en/coin/lkct) | RandomX (CPU) | SOLO direct |
-| 🆕 [CapStash](https://veinpool.fr/en/coin/cap) | WhirlpoolX2 (NVIDIA) | PPLNS · SOLO | | 🆕 [Nexa](https://veinpool.fr/en/coin/nexa) | NexaPow | PPLNS · SOLO |
-| 🆕 [LuckyPepe](https://veinpool.fr/en/coin/lpepe) | YescryptR32 (CPU) | PPLNS · SOLO | | 🆕 [Kylacoin](https://veinpool.fr/en/coin/kcn) | Flex (CPU) | PPLNS · SOLO |
-| 🆕 [Cascoin](https://veinpool.fr/en/coin/cas) | MinotaurX (CPU) | PPLNS · SOLO | | 🆕 [Tidecoin](https://veinpool.fr/en/coin/tdc) | YespowerTIDE (CPU) | PPLNS · SOLO |
-| [Quantus](https://veinpool.fr/en/coin/qtc) | QPoW | PPLNS · SOLO | | [Xelis](https://veinpool.fr/en/coin/xel) | XelisHash v3 | PPLNS · SOLO |
-| [Firo](https://veinpool.fr/en/coin/firo) | FiroPoW | PPLNS · SOLO | | [Tari](https://veinpool.fr/en/coin/xtm) | RandomXT | PPLNS · SOLO |
-| [Ravencoin](https://veinpool.fr/en/coin/rvn) | KawPow | PPLNS · SOLO | | [Qubitcoin](https://veinpool.fr/en/coin/qubit) | Qhash | PPLNS · SOLO |
-| [Neurai](https://veinpool.fr/en/coin/xna) | KawPow | PPLNS · SOLO | | [Ycash](https://veinpool.fr/en/coin/yec) | Equihash 192,7 | PPLNS · SOLO |
-| [Satoxcoin](https://veinpool.fr/en/coin/satox) | KawPow | PPLNS · SOLO | | [Feelcoin](https://veinpool.fr/en/coin/feel) | RandomX | PPLNS · SOLO |
-| [Gaelium](https://veinpool.fr/en/coin/gael) | KawPow | PPLNS · SOLO | | [WAM Coin](https://veinpool.fr/en/coin/wam) | RandomX | PPLNS |
-| [Neoxa](https://veinpool.fr/en/coin/neox) | KawPow | PPLNS · SOLO | | [Zycord](https://veinpool.fr/en/coin/zcd) | RandomX v2 | SOLO direct |
-| [Kerrigan](https://veinpool.fr/en/coin/krgneq) | Equihash 192,7 | PPLNS · SOLO | | [Epic Cash](https://veinpool.fr/en/coin/epic) | ProgPow | PPLNS · SOLO |
-| [Zano](https://veinpool.fr/en/coin/zano) | ProgPowZ | PPLNS · SOLO | | [Dero](https://veinpool.fr/en/coin/dero) | AstroBWTv3 (CPU) | SOLO direct |
-| [Warthog](https://veinpool.fr/en/coin/wart) | Janushash (GPU + CPU) | SOLO direct | | [Beam](https://veinpool.fr/en/coin/beam) | BeamHash III | PPLNS · SOLO |
-| [Grin](https://veinpool.fr/en/coin/grin) | Cuckatoo32 | PPLNS · SOLO | | 🆕 [Satoshi Cash](https://veinpool.fr/en/coin/scash) | RandomX SCASH (CPU) | PPLNS · SOLO |
-| 🆕 [Zephyr](https://veinpool.fr/en/coin/zeph) | RandomX (CPU) | PPLNS · SOLO | | 🆕 [Salvium](https://veinpool.fr/en/coin/sal) | RandomX (CPU) | PPLNS · SOLO |
-| 🆕 [Yerbas](https://veinpool.fr/en/coin/yerb) | Ghostrider (CPU) | PPLNS · SOLO | | 🆕 [Karlsen](https://veinpool.fr/en/coin/kls) | KarlsenHashV2 (GPU) | PPLNS · SOLO |
-| 🆕 [Riecoin](https://veinpool.fr/en/coin/ric) | Stella primes (CPU) | PPLNS | | 🆕 [Conceal](https://veinpool.fr/en/coin/ccx) | CryptoNight-GPU | PPLNS · SOLO |
-| 🆕 [Phicoin](https://veinpool.fr/en/coin/phi) | PhiHash (GPU) | PPLNS · SOLO | | 🆕 [**Bitcoin**](https://veinpool.fr/en/coin/btc) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO lottery |
-| 🆕 [**Bitcoin Cash**](https://veinpool.fr/en/coin/bch) | SHA-256 (ASIC · Bitaxe · NerdMiner) | SOLO | | 🆕 [**Litecoin**](https://veinpool.fr/en/coin/ltc) | Scrypt (ASIC) | SOLO |
+Every coin runs on its own full node. *SOLO direct*: the block template pays your own address, the pool never holds the coins.
+**GPU** · 20 coins
 
-| 🆕 [**Dogecoin**](https://veinpool.fr/en/coin/doge) | Scrypt (ASIC) | SOLO | | 🆕 [Epic Cash](https://veinpool.fr/en/coin/epic) | ProgPow (GPU) + RandomX (CPU) | PPLNS · SOLO |
+| Coin | Algo | Mode |
+|---|---|---|
+| [Beam](https://veinpool.fr/en/coin/beam) · BEAM | BeamHash III | PPLNS · SOLO |
+| [CapStash](https://veinpool.fr/en/coin/cap) · CAP | WhirlpoolX2 | PPLNS · SOLO |
+| [Epic Cash](https://veinpool.fr/en/coin/epic) · EPIC | ProgPow | PPLNS · SOLO |
+| [Firo](https://veinpool.fr/en/coin/firo) · FIRO | FiroPoW | PPLNS · SOLO |
+| [Gaelium](https://veinpool.fr/en/coin/gael) · GAEL | KawPow | PPLNS · SOLO |
+| [Grin](https://veinpool.fr/en/coin/grin) · GRIN | Cuckatoo32 | PPLNS · SOLO |
+| [Karlsen](https://veinpool.fr/en/coin/kls) · KLS | KarlsenHashV2 | PPLNS · SOLO |
+| [Kerrigan](https://veinpool.fr/en/coin/krgneq) · KRGN | Equihash 192,7 | PPLNS · SOLO |
+| [Neoxa](https://veinpool.fr/en/coin/neox) · NEOX | KawPow | PPLNS · SOLO |
+| [Neurai](https://veinpool.fr/en/coin/xna) · XNA | KawPow | PPLNS · SOLO |
+| [Nexa](https://veinpool.fr/en/coin/nexa) · NEXA | NexaPow | PPLNS · SOLO |
+| [Phicoin](https://veinpool.fr/en/coin/phi) · PHI | PhiHash | PPLNS · SOLO · Squad |
+| [Quantus](https://veinpool.fr/en/coin/qtc) · QTC | QPoW | PPLNS · SOLO |
+| [Qubitcoin](https://veinpool.fr/en/coin/qubit) · QTC | Qhash | PPLNS · SOLO |
+| [Ravencoin](https://veinpool.fr/en/coin/rvn) · RVN | KawPow | PPLNS · SOLO |
+| [Satoxcoin](https://veinpool.fr/en/coin/satox) · SATOX | KawPow | PPLNS · SOLO · Squad |
+| [Vertcoin](https://veinpool.fr/en/coin/vtc) · VTC | Verthash | PPLNS |
+| [Ycash](https://veinpool.fr/en/coin/yec) · YEC | Equihash 192,7 | PPLNS · SOLO |
+| [Zano](https://veinpool.fr/en/coin/zano) · ZANO | ProgPowZ | PPLNS · SOLO |
+| [Zero](https://veinpool.fr/en/coin/zer) · ZER | Equihash 192,7 | PPLNS · SOLO · Squad |
+
+**GPU + CPU** · 8 coins
+
+| Coin | Algo | Mode |
+|---|---|---|
+| [Conceal](https://veinpool.fr/en/coin/ccx) · CCX | CryptoNight-GPU | PPLNS · SOLO |
+| [Feathercoin](https://veinpool.fr/en/coin/ftc) · FTC | NeoScrypt | PPLNS · SOLO |
+| [Garlicoin](https://veinpool.fr/en/coin/grlc) · GRLC | Allium | PPLNS · SOLO |
+| [GoByte](https://veinpool.fr/en/coin/gbx) · GBX | NeoScrypt | PPLNS · SOLO |
+| [Groestlcoin](https://veinpool.fr/en/coin/grs) · GRS | Groestl | PPLNS · SOLO |
+| [Phoenixcoin](https://veinpool.fr/en/coin/pxc) · PXC | NeoScrypt | PPLNS · SOLO |
+| [Warthog](https://veinpool.fr/en/coin/wart) · WART | Janushash | SOLO direct |
+| [Xelis](https://veinpool.fr/en/coin/xel) · XEL | XelisHash v3 | PPLNS · SOLO |
+
+**CPU** · 21 coins
+
+| Coin | Algo | Mode |
+|---|---|---|
+| [Cascoin](https://veinpool.fr/en/coin/cas) · CAS | MinotaurX | PPLNS · SOLO |
+| [Dero](https://veinpool.fr/en/coin/dero) · DERO | AstroBWTv3 | SOLO direct |
+| [Feelcoin](https://veinpool.fr/en/coin/feel) · FEEL | RandomX | PPLNS · SOLO · Squad |
+| [FortuneBlock](https://veinpool.fr/en/coin/fbx) · FBX | Mike | PPLNS · SOLO |
+| [GSP Coin](https://veinpool.fr/en/coin/gspc) · GSPC | GhostRider | PPLNS · SOLO · Squad |
+| [Kylacoin](https://veinpool.fr/en/coin/kcn) · KCN | Flex | PPLNS · SOLO |
+| [Lajkto Coin](https://veinpool.fr/en/coin/lkct) · LKCT | RandomX | SOLO direct |
+| [Litecoin Cash](https://veinpool.fr/en/coin/lcc) · LCC | MinotaurX | PPLNS · SOLO |
+| [LuckyPepe](https://veinpool.fr/en/coin/lpepe) · LPEPE | YescryptR32 | PPLNS · SOLO |
+| [MazaCoin](https://veinpool.fr/en/coin/maza) · MAZA | MinotaurX | PPLNS · SOLO |
+| [Riecoin](https://veinpool.fr/en/coin/ric) · RIC | Stella (prime numbers) | PPLNS |
+| [RIGOR](https://veinpool.fr/en/coin/oru) · ORU | OpuHash | SOLO direct |
+| [Salvium](https://veinpool.fr/en/coin/sal) · SAL | RandomX | PPLNS · SOLO |
+| [Satoshi Cash](https://veinpool.fr/en/coin/scash) · SCASH | RandomX (SCASH) | PPLNS · SOLO |
+| [Tari](https://veinpool.fr/en/coin/xtm) · XTM | RandomXT | PPLNS · SOLO |
+| [Tidecoin](https://veinpool.fr/en/coin/tdc) · TDC | YespowerTIDE | PPLNS · SOLO |
+| [WAM Coin](https://veinpool.fr/en/coin/wam) · WAM | RandomX | PPLNS |
+| [Yenten](https://veinpool.fr/en/coin/ytn) · YTN | YespowerR16 | PPLNS · SOLO |
+| [Yerbas](https://veinpool.fr/en/coin/yerb) · YERB | Ghostrider | PPLNS · SOLO |
+| [Zephyr](https://veinpool.fr/en/coin/zeph) · ZEPH | RandomX | PPLNS · SOLO |
+| [Zycord](https://veinpool.fr/en/coin/zcd) · ZCD | RandomX v2 | SOLO direct |
+
+**ASIC** · 4 coins
+
+| Coin | Algo | Mode |
+|---|---|---|
+| [Bitcoin](https://veinpool.fr/en/coin/btc) · BTC | SHA-256 | SOLO |
+| [Bitcoin Cash](https://veinpool.fr/en/coin/bch) · BCH | SHA-256 | SOLO |
+| [Dogecoin](https://veinpool.fr/en/coin/doge) · DOGE | Scrypt | SOLO |
+| [Litecoin](https://veinpool.fr/en/coin/ltc) · LTC | Scrypt | SOLO |
 
 <table>
   <tr>
