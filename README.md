@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 53 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 45 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
 - ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) and Dogecoin (`3630` / `3632`) SOLO for ASICs
-- 🪙 **SOLO direct** on Warthog, Dero, Zycord, Lajkto Coin and RIGOR: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
+- 🪙 **SOLO direct** on Warthog, Zycord and Lajkto Coin: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
 - 📈 **New in V3 — live markets**: a TradingView-style candlestick chart on every coin page (15 min → 1 day, refreshed every 10 s from the coin's main exchange) and a live screener of all VEIN coins on the home page
@@ -74,12 +74,12 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**53 coins (GPU · CPU · ASIC) · 29,000+ blocks found all-time** (4 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**45 coins (GPU · CPU · ASIC) · 29,000+ blocks found all-time** (4 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
 Every coin runs on its own full node. *SOLO direct*: the block template pays your own address, the pool never holds the coins.
-**GPU** · 20 coins
+**GPU** · 19 coins
 
 | Coin | Algo | Mode |
 |---|---|---|
@@ -87,7 +87,6 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | [CapStash](https://veinpool.fr/en/coin/cap) · CAP | WhirlpoolX2 | PPLNS · SOLO |
 | [Epic Cash](https://veinpool.fr/en/coin/epic) · EPIC | ProgPow | PPLNS · SOLO |
 | [Firo](https://veinpool.fr/en/coin/firo) · FIRO | FiroPoW | PPLNS · SOLO |
-| [Gaelium](https://veinpool.fr/en/coin/gael) · GAEL | KawPow | PPLNS · SOLO |
 | [Grin](https://veinpool.fr/en/coin/grin) · GRIN | Cuckatoo32 | PPLNS · SOLO |
 | [Karlsen](https://veinpool.fr/en/coin/kls) · KLS | KarlsenHashV2 | PPLNS · SOLO |
 | [Kerrigan](https://veinpool.fr/en/coin/krgneq) · KRGN | Equihash 192,7 | PPLNS · SOLO |
@@ -104,12 +103,11 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | [Zano](https://veinpool.fr/en/coin/zano) · ZANO | ProgPowZ | PPLNS · SOLO |
 | [Zero](https://veinpool.fr/en/coin/zer) · ZER | Equihash 192,7 | PPLNS · SOLO · Squad |
 
-**GPU + CPU** · 8 coins
+**GPU + CPU** · 7 coins
 
 | Coin | Algo | Mode |
 |---|---|---|
 | [Conceal](https://veinpool.fr/en/coin/ccx) · CCX | CryptoNight-GPU | PPLNS · SOLO |
-| [Feathercoin](https://veinpool.fr/en/coin/ftc) · FTC | NeoScrypt | PPLNS · SOLO |
 | [Garlicoin](https://veinpool.fr/en/coin/grlc) · GRLC | Allium | PPLNS · SOLO |
 | [GoByte](https://veinpool.fr/en/coin/gbx) · GBX | NeoScrypt | PPLNS · SOLO |
 | [Groestlcoin](https://veinpool.fr/en/coin/grs) · GRS | Groestl | PPLNS · SOLO |
@@ -117,28 +115,23 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | [Warthog](https://veinpool.fr/en/coin/wart) · WART | Janushash | SOLO direct |
 | [Xelis](https://veinpool.fr/en/coin/xel) · XEL | XelisHash v3 | PPLNS · SOLO |
 
-**CPU** · 21 coins
+**CPU** · 16 coins
 
 | Coin | Algo | Mode |
 |---|---|---|
 | [Cascoin](https://veinpool.fr/en/coin/cas) · CAS | MinotaurX | PPLNS · SOLO |
-| [Dero](https://veinpool.fr/en/coin/dero) · DERO | AstroBWTv3 | SOLO direct |
 | [Feelcoin](https://veinpool.fr/en/coin/feel) · FEEL | RandomX | PPLNS · SOLO · Squad |
 | [FortuneBlock](https://veinpool.fr/en/coin/fbx) · FBX | Mike | PPLNS · SOLO |
 | [GSP Coin](https://veinpool.fr/en/coin/gspc) · GSPC | GhostRider | PPLNS · SOLO · Squad |
 | [Kylacoin](https://veinpool.fr/en/coin/kcn) · KCN | Flex | PPLNS · SOLO |
 | [Lajkto Coin](https://veinpool.fr/en/coin/lkct) · LKCT | RandomX | SOLO direct |
-| [Litecoin Cash](https://veinpool.fr/en/coin/lcc) · LCC | MinotaurX | PPLNS · SOLO |
 | [LuckyPepe](https://veinpool.fr/en/coin/lpepe) · LPEPE | YescryptR32 | PPLNS · SOLO |
-| [MazaCoin](https://veinpool.fr/en/coin/maza) · MAZA | MinotaurX | PPLNS · SOLO |
 | [Riecoin](https://veinpool.fr/en/coin/ric) · RIC | Stella (prime numbers) | PPLNS |
-| [RIGOR](https://veinpool.fr/en/coin/oru) · ORU | OpuHash | SOLO direct |
 | [Salvium](https://veinpool.fr/en/coin/sal) · SAL | RandomX | PPLNS · SOLO |
 | [Satoshi Cash](https://veinpool.fr/en/coin/scash) · SCASH | RandomX (SCASH) | PPLNS · SOLO |
 | [Tari](https://veinpool.fr/en/coin/xtm) · XTM | RandomXT | PPLNS · SOLO |
 | [Tidecoin](https://veinpool.fr/en/coin/tdc) · TDC | YespowerTIDE | PPLNS · SOLO |
 | [WAM Coin](https://veinpool.fr/en/coin/wam) · WAM | RandomX | PPLNS |
-| [Yenten](https://veinpool.fr/en/coin/ytn) · YTN | YespowerR16 | PPLNS · SOLO |
 | [Yerbas](https://veinpool.fr/en/coin/yerb) · YERB | Ghostrider | PPLNS · SOLO |
 | [Zephyr](https://veinpool.fr/en/coin/zeph) · ZEPH | RandomX | PPLNS · SOLO |
 | [Zycord](https://veinpool.fr/en/coin/zcd) · ZCD | RandomX v2 | SOLO direct |
@@ -168,8 +161,6 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 # Warthog SOLO direct (GPU + CPU) — block paid straight to your address
 bzminer -a warthog -w YOUR_ADDRESS.rig1 -p stratum+tcp://veinpool.fr:3340 --nvidia --amd --cpu
 
-# Dero SOLO direct (CPU) — use a registered wallet (Engram / dero-wallet-cli)
-dero-miner --wallet-address YOUR_ADDRESS --daemon-rpc-address veinpool.fr:3350 --mining-threads 8
 
 # Ravencoin (KawPow) — wallet address = login, no account
 t-rex -a kawpow -o stratum+tcp://veinpool.fr:3080 -u YOUR_ADDRESS.rig1 -p x
