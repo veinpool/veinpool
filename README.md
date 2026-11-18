@@ -17,7 +17,9 @@
 
 > 💎 **New — Pearl (PRL) pool** (18 Nov): proof-of-useful-work GPU coin (PearlHash), listed on Coinbase, Kraken and Gate. **PPLNS at 0.5 % fee** on `3740` (TLS `13740`), **SOLO at 0 %** on `3742` (TLS `13742`), own official Pearl node, every share verified with Pearl's own library. `SRBMiner-MULTI --algorithm pearlhash --pool veinpool.fr:3740 --wallet YOUR_PRL1P_ADDRESS.rig1` · [veinpool.fr/en/coin/prl](https://veinpool.fr/en/coin/prl)
 
-> 📊 **New — pool leaderboard** (18 Nov): every pool ranked live by miners, rigs, hashrate (valued in €/day so algorithms compare) and interest · [veinpool.fr/en/classement](https://veinpool.fr/en/classement)
+> 📊 **New — pool leaderboard** (18 Nov): where are the miners? Every pool ranked live by miners, rigs, hashrate (valued in €/day so algorithms compare), network share, blocks and an interest score; filter GPU / CPU, search an algorithm · [veinpool.fr/en/classement](https://veinpool.fr/en/classement) · pools by algorithm: [veinpool.fr/en/algo](https://veinpool.fr/en/algo)
+
+<p align="center"><a href="https://veinpool.fr/en/classement"><img src="assets/site-leaderboard.jpg" alt="VeinPool pool leaderboard: every pool ranked live by miners, rigs, hashrate, network share, daily output, blocks and interest" width="92%"></a></p>
 
 > 📈 **New — block seismograph** (4 Nov): the home page now shows the last 24 h of the whole pool as a seismogram, one tremor per clock quarter hour, every coin in its own colour, with the rhythm (≈ one block every 1.4 min right now), the busiest hour and the last block; hover or use the arrow keys for the detail of each quarter hour. The *most mined* GPU and CPU boxes now follow the hardware the rigs really use, read from their mining software. → [veinpool.fr/en](https://veinpool.fr/en) · [all blocks](https://veinpool.fr/en/blocks)
 
