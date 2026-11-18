@@ -1,5 +1,13 @@
 # Changelog — veinpool.fr
 
+## 18 November 2026 — Pearl (PRL), pool leaderboard, Epic payouts
+
+- **Pearl (PRL)** opens for GPUs: PPLNS `3740` at **0.5 %** fee, SOLO `3742` at **0 %**, TLS on `13740` / `13742`. PearlHash (proof of useful work: matrix multiplications), SRBMiner `--algorithm pearlhash`. Our own official Pearl node (v1.5.7); every share is checked with Pearl's own proof library, each miner gets its own block template, and the block's zero-knowledge proof is built on our server (~8 s).
+- **Pool leaderboard** (`/classement`): every open pool ranked live by miners, rigs, hashrate, network share, daily output and blocks; sort by miners, hashrate or interest, filter GPU / CPU.
+- **Epic Cash payouts** were failing since 15 November: the Epicbox listener that finalizes payments had stopped, and wallet crashes after a send left coins locked. Fixed; locked funds released, every owed balance is being paid again, and crashed sends are now tracked instead of being retried blindly.
+- **BzMiner CPU / GPU**: the "CPU only" command (Xelis, Tari, Feelcoin) now explicitly turns the GPUs off (`--nvidia 0 --amd 0 --intel 0`), and the GPU command turns the CPU off (`--cpu 0`).
+- **Lighter site**: modest PCs and phones get the light effects, off-screen pool cards are not rendered until you scroll to them, and the live feed refreshes every 12 s (was 8 s).
+
 ## 4 November 2026 — block seismograph, real hardware boxes, payouts
 
 - **Block seismograph** on the home page: the last 24 h of the whole pool, one tremor per clock quarter hour with every coin stacked in its colour, an hour and a count scale, the key figures (blocks, rhythm, busiest hour, last block), a tooltip per quarter hour (pointer or arrow keys) and a legend of the coins.
