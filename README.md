@@ -15,6 +15,10 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-home.jpg" alt="veinpool.fr home: live hashrate gauges, most mined coins" width="92%"></a></p>
 
+> ✅ **Now tracked on MiningBoard** (19 Nov): VeinPool is listed on [MiningBoard](https://miningboard.com/pools/veinpool.fr), the independent site that tracks mining pools, hardware and coin profitability. Every coin appears in PPLNS and SOLO side by side with our published fees and payout minimums, verified against our own API and per-coin feeds (refreshed every 2 min). Check our hashrate, fees and payouts independently: [miningboard.com/pools/veinpool.fr](https://miningboard.com/pools/veinpool.fr)
+
+<p align="center"><a href="https://miningboard.com/pools/veinpool.fr?utm_source=veinpool.fr&utm_medium=referral&utm_campaign=tracked_on_miningboard"><img src="https://veinpool.fr/assets/partners/mb-badge-dark.svg" alt="Tracked on MiningBoard" height="44"></a></p>
+
 > 💎 **New — Pearl (PRL) pool** (18 Nov): proof-of-useful-work GPU coin (PearlHash), listed on Coinbase, Kraken and Gate. **PPLNS at 0.5 % fee** on `3740` (TLS `13740`), **SOLO at 0 %** on `3742` (TLS `13742`), own official Pearl node, every share verified with Pearl's own library. `SRBMiner-MULTI --algorithm pearlhash --pool veinpool.fr:3740 --wallet YOUR_PRL1P_ADDRESS.rig1` · [veinpool.fr/en/coin/prl](https://veinpool.fr/en/coin/prl)
 
 > 📊 **New — pool leaderboard** (18 Nov): where are the miners? Every pool ranked live by miners, rigs, hashrate (valued in €/day so algorithms compare), network share, blocks and an interest score; filter GPU / CPU, search an algorithm · [veinpool.fr/en/classement](https://veinpool.fr/en/classement) · pools by algorithm: [veinpool.fr/en/algo](https://veinpool.fr/en/algo)
