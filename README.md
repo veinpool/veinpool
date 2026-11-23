@@ -19,6 +19,8 @@
 
 <p align="center"><a href="https://miningboard.com/pools/veinpool.fr?utm_source=veinpool.fr&utm_medium=referral&utm_campaign=tracked_on_miningboard"><img src="https://veinpool.fr/assets/partners/mb-badge-dark.svg" alt="Tracked on MiningBoard" height="44"></a></p>
 
+> 🆕 **23 Nov — Ryo (RYO) live**: the coin that created CryptoNight-GPU, `veinpool.fr:3920` (PPLNS) / `3921` (farms) / `3922` (SOLO), TLS `13920` / `13922`, 1 % fee, payouts from 1 RYO. Tested with SRBMiner-Multi on an RTX 4090: `--algorithm cryptonight_gpu --gpu-intensity 1024`. → [veinpool.fr/en/coin/ryo](https://veinpool.fr/en/coin/ryo)
+>
 > 🆕 **23 Nov — Neural Engine Byte (NEB) live**: GPU pool for the coin where every hash trains a neural network, `veinpool.fr:3970` (PPLNS) / `3972` (SOLO), 1 % fee, payouts from 1 NEB, `ffgn --pool veinpool.fr:3970 --wallet neb1… --worker rig1` → [veinpool.fr/en/coin/neb](https://veinpool.fr/en/coin/neb)
 >
 > 🆕 **23 Nov — Tari C29 (GPU) + reliability update**: **Tari C29** (Cuckaroo29) pool on `veinpool.fr:3650` (PPLNS) / `3652` (SOLO), same Tari balance as the CPU pool, `lolMiner --coin TARI --pool veinpool.fr:3650 --user YOUR_TARI_ADDRESS.rig1` · [veinpool.fr/en/coin/xtmc](https://veinpool.fr/en/coin/xtmc). Epic Cash: no more stale shares, fresh block templates guaranteed, and your dashboard shows the EPIC waiting for your epicbox wallet. Salvium payouts sent as soon as funds unlock. Every block now shows its effort and the rig that found it. A patrol agent checks nodes, pools, payouts and the site every 10 minutes.
@@ -88,12 +90,12 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**50 coins (GPU · CPU · ASIC) · 90,000+ blocks found all-time** (23 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**51 coins (GPU · CPU · ASIC) · 90,000+ blocks found all-time** (23 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
 Every coin runs on its own full node. *SOLO direct*: the block template pays your own address, the pool never holds the coins.
-**GPU** · 19 coins
+**GPU** · 21 coins
 
 | Coin | Algo | Mode |
 |---|---|---|
@@ -106,11 +108,13 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | [Kerrigan](https://veinpool.fr/en/coin/krgneq) · KRGN | Equihash 192,7 | PPLNS · SOLO |
 | [Neoxa](https://veinpool.fr/en/coin/neox) · NEOX | KawPow | PPLNS · SOLO |
 | [Neurai](https://veinpool.fr/en/coin/xna) · XNA | KawPow | PPLNS · SOLO |
+| [Neural Engine Byte](https://veinpool.fr/en/coin/neb) · NEB | NebHash v2 | PPLNS · SOLO |
 | [Nexa](https://veinpool.fr/en/coin/nexa) · NEXA | NexaPow | PPLNS · SOLO |
 | [Phicoin](https://veinpool.fr/en/coin/phi) · PHI | PhiHash | PPLNS · SOLO · Squad |
 | [Quantus](https://veinpool.fr/en/coin/qtc) · QTC | QPoW | PPLNS · SOLO |
 | [Qubitcoin](https://veinpool.fr/en/coin/qubit) · QTC | Qhash | PPLNS · SOLO |
 | [Ravencoin](https://veinpool.fr/en/coin/rvn) · RVN | KawPow | PPLNS · SOLO |
+| [Ryo](https://veinpool.fr/en/coin/ryo) · RYO | CryptoNight-GPU | PPLNS · SOLO |
 | [Satoxcoin](https://veinpool.fr/en/coin/satox) · SATOX | KawPow | PPLNS · SOLO · Squad |
 | [Vertcoin](https://veinpool.fr/en/coin/vtc) · VTC | Verthash | PPLNS |
 | [Ycash](https://veinpool.fr/en/coin/yec) · YEC | Equihash 192,7 | PPLNS · SOLO |
