@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 45 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 49 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
   <a href="https://veinpool.fr/en"><img src="https://img.shields.io/badge/website-veinpool.fr-f6c76e?style=for-the-badge" alt="website"></a>
   <img src="https://img.shields.io/badge/location-EU%20%F0%9F%87%AB%F0%9F%87%B7-2b6cb0?style=for-the-badge" alt="EU">
   <img src="https://img.shields.io/badge/modes-PPLNS%20%7C%20SOLO-28a745?style=for-the-badge" alt="modes">
-  <img src="https://img.shields.io/badge/fee-1%25%20%C2%B7%20SOLO%20direct%200%25-ff8f4f?style=for-the-badge" alt="fees">
+  <img src="https://img.shields.io/badge/fee-1%25%20PPLNS%20%26%20SOLO-ff8f4f?style=for-the-badge" alt="fees">
   <img src="https://img.shields.io/badge/small--miner%20bonus-up%20to%20%2B5%25-58e3b8?style=for-the-badge" alt="small-miner bonus up to +5%">
   <img src="https://img.shields.io/badge/lang-EN%20%7C%20FR-8a2be2?style=for-the-badge" alt="EN FR">
 </p>
@@ -19,7 +19,9 @@
 
 <p align="center"><a href="https://miningboard.com/pools/veinpool.fr?utm_source=veinpool.fr&utm_medium=referral&utm_campaign=tracked_on_miningboard"><img src="https://veinpool.fr/assets/partners/mb-badge-dark.svg" alt="Tracked on MiningBoard" height="44"></a></p>
 
-> 💎 **New — Pearl (PRL) pool** (18 Nov): proof-of-useful-work GPU coin (PearlHash), listed on Coinbase, Kraken and Gate. **PPLNS at 0.5 % fee** on `3740` (TLS `13740`), **SOLO at 0 %** on `3742` (TLS `13742`), own official Pearl node, every share verified with Pearl's own library. `SRBMiner-MULTI --algorithm pearlhash --pool veinpool.fr:3740 --wallet YOUR_PRL1P_ADDRESS.rig1` · [veinpool.fr/en/coin/prl](https://veinpool.fr/en/coin/prl)
+> 🆕 **23 Nov — Tari C29 (GPU) + reliability update**: **Tari C29** (Cuckaroo29) pool on `veinpool.fr:3650` (PPLNS) / `3652` (SOLO), same Tari balance as the CPU pool, `lolMiner --coin TARI --pool veinpool.fr:3650 --user YOUR_TARI_ADDRESS.rig1` · [veinpool.fr/en/coin/xtmc](https://veinpool.fr/en/coin/xtmc). Epic Cash: no more stale shares, fresh block templates guaranteed, and your dashboard shows the EPIC waiting for your epicbox wallet. Salvium payouts sent as soon as funds unlock. Every block now shows its effort and the rig that found it. A patrol agent checks nodes, pools, payouts and the site every 10 minutes.
+
+> 💎 **New — Pearl (PRL) pool** (18 Nov): proof-of-useful-work GPU coin (PearlHash), listed on Coinbase, Kraken and Gate. **PPLNS at 0.5 % fee** on `3740` (TLS `13740`), **SOLO at 1 %** on `3742` (TLS `13742`), own official Pearl node, every share verified with Pearl's own library. `SRBMiner-MULTI --algorithm pearlhash --pool veinpool.fr:3740 --wallet YOUR_PRL1P_ADDRESS.rig1` · [veinpool.fr/en/coin/prl](https://veinpool.fr/en/coin/prl)
 
 > 📊 **New — pool leaderboard** (18 Nov): where are the miners? Every pool ranked live by miners, rigs, hashrate (valued in €/day so algorithms compare), network share, blocks and an interest score; filter GPU / CPU, search an algorithm · [veinpool.fr/en/classement](https://veinpool.fr/en/classement) · pools by algorithm: [veinpool.fr/en/algo](https://veinpool.fr/en/algo)
 
@@ -50,7 +52,7 @@
 - ⚡ **Realtime dashboard** — your rigs appear the second they connect, with alerts when one drops or finds a block
 - 🎯 **PPLNS or SOLO** on the same coin, just switch port
 - ₿ **ASIC too**: Bitcoin SOLO lottery for NerdMiner (port `3600`), Bitaxe (`3601`) and SHA-256 ASICs (`3602`); Bitcoin Cash (`3610`–`3612`) and Litecoin (`3620` / `3622`) and Dogecoin (`3630` / `3632`) SOLO for ASICs
-- 🪙 **SOLO direct** on Warthog, Zycord and Lajkto Coin: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (0 % fee)
+- 🪙 **SOLO direct** on Warthog, Zycord and Lajkto Coin: our node builds the block template **for your own address**, the chain pays you directly — the pool never holds your funds (1 % fee, taken as 6 minutes of pool work every 10 hours)
 - 🧮 **Pool vs solo calculator** and a live hardware ranking (GPUs and CPUs, net of electricity)
 - 🔍 Every block the pool finds, with its rig, effort, confirmations and explorer link
 - 📈 **New in V3 — live markets**: a TradingView-style candlestick chart on every coin page (15 min → 1 day, refreshed every 10 s from the coin's main exchange) and a live screener of all VEIN coins on the home page
@@ -84,7 +86,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <p align="center"><a href="https://veinpool.fr/en/coin/btc"><img src="assets/site-btc.jpg" width="49%" alt="Bitcoin SOLO lottery page: live BTC price, network stats and odds for a Bitaxe"></a> <a href="https://veinpool.fr/en/materiel"><img src="assets/site-hardware.jpg" width="49%" alt="Best mining hardware, ranked live by net earnings"></a></p>
 
-**45 coins (GPU · CPU · ASIC) · 29,000+ blocks found all-time** (4 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
+**49 coins (GPU · CPU · ASIC) · 90,000+ blocks found all-time** (23 Nov 2026) — 🎬 [Bitcoin solo lottery video](https://youtu.be/1s79oCt-czA) · [live stats](https://veinpool.fr/en/pools)
 
 ### Coins
 
