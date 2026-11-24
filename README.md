@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 50 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 51 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
 
 <p align="center"><a href="https://miningboard.com/pools/veinpool.fr?utm_source=veinpool.fr&utm_medium=referral&utm_campaign=tracked_on_miningboard"><img src="https://veinpool.fr/assets/partners/mb-badge-dark.svg" alt="Tracked on MiningBoard" height="44"></a></p>
 
+> 🆕 **24 Nov — Rincoin (RIN) live**: CPU pool on RinHash (BLAKE3 + Argon2d + SHA3), `veinpool.fr:3930` (PPLNS) / `3932` (SOLO), 1 % fee, payouts from 1 RIN, `SRBMiner-MULTI --algorithm rinhash --disable-gpu --pool veinpool.fr:3930 --wallet R…` → [veinpool.fr/en/coin/rin](https://veinpool.fr/en/coin/rin)
+>
 > 🆕 **23 Nov — Ryo (RYO) live**: the coin that created CryptoNight-GPU, `veinpool.fr:3920` (PPLNS) / `3921` (farms) / `3922` (SOLO), TLS `13920` / `13922`, 1 % fee, payouts from 1 RYO. Tested with SRBMiner-Multi on an RTX 4090: `--algorithm cryptonight_gpu --gpu-intensity 1024`. → [veinpool.fr/en/coin/ryo](https://veinpool.fr/en/coin/ryo)
 >
 > 🆕 **23 Nov — Neural Engine Byte (NEB) live**: GPU pool for the coin where every hash trains a neural network, `veinpool.fr:3970` (PPLNS) / `3972` (SOLO), 1 % fee, payouts from 1 NEB, `ffgn --pool veinpool.fr:3970 --wallet neb1… --worker rig1` → [veinpool.fr/en/coin/neb](https://veinpool.fr/en/coin/neb)
@@ -139,6 +141,7 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 |---|---|---|
 | [Cascoin](https://veinpool.fr/en/coin/cas) · CAS | MinotaurX | PPLNS · SOLO |
 | [Feelcoin](https://veinpool.fr/en/coin/feel) · FEEL | RandomX | PPLNS · SOLO · Squad |
+| [Rincoin](https://veinpool.fr/en/coin/rin) · RIN | RinHash | PPLNS · SOLO |
 | [FortuneBlock](https://veinpool.fr/en/coin/fbx) · FBX | Mike | PPLNS · SOLO |
 | [GSP Coin](https://veinpool.fr/en/coin/gspc) · GSPC | GhostRider | PPLNS · SOLO · Squad |
 | [Kylacoin](https://veinpool.fr/en/coin/kcn) · KCN | Flex | PPLNS · SOLO |
