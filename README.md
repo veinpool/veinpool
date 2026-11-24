@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 51 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
+  <a href="https://veinpool.fr/en"><img src="assets/banner.jpg" alt="VeinPool — 52 coins, PPLNS, SOLO and Squads, +5% small-miner bonus, own full nodes, EU" width="100%"></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,6 @@
 
 <p align="center"><a href="https://veinpool.fr/en"><img src="assets/site-seismograph.jpg" alt="Block seismograph: the last hours of the whole pool, one tremor per quarter hour, every coin in its colour" width="92%"></a></p>
 
-> ⛏️ **53 coins to mine** (3 Nov): four new pools, each on its own full node, PPLNS and SOLO. **Garlicoin** (Allium, GPU · `3850` / SOLO `3852`), **Yenten** (YespowerR16, CPU · `3860` / `3862`), **MazaCoin** (MinotaurX, CPU · `3870` / `3872`) and **Litecoin Cash** (MinotaurX, CPU · `3880` / `3882`). Satoshi Cash can now be mined with the official **cpuminer-scash** as well as SRBMiner. → [garlicoin](https://veinpool.fr/en/coin/grlc) · [yenten](https://veinpool.fr/en/coin/ytn) · [mazacoin](https://veinpool.fr/en/coin/maza) · [litecoin cash](https://veinpool.fr/en/coin/lcc) · 🎬 [GRLC](https://youtu.be/a9CyFd_-Tio) · [YTN](https://youtu.be/uHf0MNVdu6A) · [MAZA](https://youtu.be/ZuDNlRV685g) · [VTC](https://youtu.be/eiaynKHWGTU)
 
 > 🧑‍🤝‍🧑 **New — Squads on PPLNS + SOLO coins** (31 Oct): mine solo as a team, share only the blocks your squad finds, by merit. Open squad for everyone: `VEIN-RZP3` (put `RZP3-` in front of your rig name). → [squads](https://veinpool.fr/en/escouades)
 
@@ -65,7 +64,7 @@
 
 ### What's new in V3 (October 2026)
 
-<p align="center"><a href="https://veinpool.fr/en/coin/zano"><img src="assets/site-coin-header.jpg" alt="Coin page V3: live exchange price, 24 h high / low / volume, official links" width="92%"></a></p>
+<p align="center"><a href="https://veinpool.fr/en/coin/rin"><img src="assets/site-coin-header.jpg" alt="Coin page: ports, payout mode, ready-to-paste miner command (Rincoin)" width="92%"></a></p>
 
 - **Live price header** on each coin page: last trade, 24 h change, high / low, volume and sparkline, read from the coin's main exchange (MEXC, Binance, Gate, XT.com, BigONE or NonKYC)
 - **Official links** for every coin: website, block explorer, GitHub, X, Discord, plus *Trade on …* and *Open on TradingView* where the pair is listed there
@@ -79,7 +78,7 @@ Full technical notes: **[CHANGELOG.md](CHANGELOG.md)**
 
 <table>
   <tr>
-    <td width="50%"><a href="https://veinpool.fr/en/coin/zano"><img src="assets/site-market-chart.jpg" alt="Live candlestick chart on each coin page"></a></td>
+    <td width="50%"><a href="https://veinpool.fr/en/coin/neb"><img src="assets/site-market-chart.jpg" alt="Live candlestick chart on each coin page"></a></td>
     <td width="50%"><a href="https://veinpool.fr/en"><img src="assets/site-live-markets.jpg" alt="Live markets screener on the home page"></a></td>
   </tr>
   <tr>
@@ -120,7 +119,6 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | [Satoxcoin](https://veinpool.fr/en/coin/satox) · SATOX | KawPow | PPLNS · SOLO · Squad |
 | [Vertcoin](https://veinpool.fr/en/coin/vtc) · VTC | Verthash | PPLNS |
 | [Ycash](https://veinpool.fr/en/coin/yec) · YEC | Equihash 192,7 | PPLNS · SOLO |
-| [Zano](https://veinpool.fr/en/coin/zano) · ZANO | ProgPowZ | PPLNS · SOLO |
 | [Zero](https://veinpool.fr/en/coin/zer) · ZER | Equihash 192,7 | PPLNS · SOLO · Squad |
 
 **GPU + CPU** · 7 coins
@@ -128,7 +126,9 @@ Every coin runs on its own full node. *SOLO direct*: the block template pays you
 | Coin | Algo | Mode |
 |---|---|---|
 | [Conceal](https://veinpool.fr/en/coin/ccx) · CCX | CryptoNight-GPU | PPLNS · SOLO |
+| [Dash](https://veinpool.fr/en/coin/dash) · DASH | X11 | PPLNS · SOLO |
 | [Garlicoin](https://veinpool.fr/en/coin/grlc) · GRLC | Allium | PPLNS · SOLO |
+| [Monacoin](https://veinpool.fr/en/coin/mona) · MONA | Lyra2REv2 | PPLNS · SOLO |
 | [GoByte](https://veinpool.fr/en/coin/gbx) · GBX | NeoScrypt | PPLNS · SOLO |
 | [Groestlcoin](https://veinpool.fr/en/coin/grs) · GRS | Groestl | PPLNS · SOLO |
 | [Phoenixcoin](https://veinpool.fr/en/coin/pxc) · PXC | NeoScrypt | PPLNS · SOLO |
